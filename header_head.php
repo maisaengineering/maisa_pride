@@ -50,21 +50,21 @@
 <?php include ('commons.php'); ?>
 <div class="wrapper2">
               <ul id="contact-us-floating">
-    <li class="facebook"> <a href="http://www.facebook.com/MaisaSolutions" title="Maisa Solutions at Facebook"></a>
+    <li class="facebook"> <a href="http://www.facebook.com/MaisaSolutions" title="Maisa Solutions at Facebook" target="blank"></a>
                   <div class="right-side"></div>
                 </li>
-    <li class="twitter"> <a href="https://twitter.com/maisasolutions" title="Maisa Solutions at Twitter"></a>
+    <li class="twitter"> <a href="https://twitter.com/maisasolutions" title="Maisa Solutions at Twitter" target="blank"></a>
                   <div class="right-side"></div>
                 </li>
     <li class="email">
-                  <div class="right-side"> <a href="ContactUs" title="Contact Us"></a>
+                  <div class="right-side"> <a href="ContactUs" title="Contact Us" target="blank"></a>
         <div class="box"> <a href="contactus.php">contact@maisasolutions.com</a> </div>
       </div>
                 </li>
     <li class="phone">
                   <div class="right-side">
                   <a href="contactus.php" title="Contact Us"></a>
-                  <div class="box"> <a href="contactus.php">+1-707-709-8961 (USA)<br/>
+                  <div class="box"> <a href="contactus.php" target="blank">+1-707-709-8961 (USA)<br/>
                     +91-040-401-77227 (INDIA)</a> </div>
                 </li>
   </ul>

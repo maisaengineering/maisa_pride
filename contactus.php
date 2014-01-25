@@ -31,8 +31,8 @@
 					<tr>
 						<td>
 							<span id="contactname">CALL US</span><br/>
-							<span class = "contact_style">707 7098961 (USA)</span><br>
-							<span class = "contact_style">040 40177227 (INDIA)</span>
+							<span class = "contact_style">+1-707-709-8961 (USA)</span><br>
+							<span class = "contact_style">+91-040-401-77227 (INDIA)</span>
 						</td>
 					</tr>	
 					<tr><td>&nbsp;</td></tr>					

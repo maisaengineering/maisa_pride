@@ -157,7 +157,7 @@
 							<a href="values.php"><span>Values</span></a>
 						</li>
 						<li>
-			                <a href="http://maisaengineering.github.io/" target="blank"><span>Blog</span></a>
+			                <a href="http://maisaengineering.github.io/" target="_blank"><span>Blog</span></a>
 		                </li>						
 						<li>
 							<a href="management.php"><span>Management</span></a>

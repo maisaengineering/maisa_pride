@@ -10,7 +10,7 @@
 				<table width="100%">
 					<tr>
 						<td align="left">
-							<a href="Home"><img class="main_logo" src="img/logo.png" alt="Logo"></a>
+							<a href="index.php"><img class="main_logo" src="img/logo.png" alt="Logo"></a>
 						</td>
 
 						<td align="right">
@@ -28,7 +28,7 @@
 									</td>
 									<td>
 										<div class="logo">
-											<a href="#"><img src="img/ISO 9001 Certification Logo.jpg" height="40" width="50" title="ISO Certified Company 9001:2008"></a>
+											<a href="#"><img src="img/ISO 9001 Certification Logo.jpg" height="50" width="100" title="ISO Certified Company 9001:2008"></a>
 											<a href="http://partners.heroku.com/maisa-solutions" target="blank"><img src="img/heroku-logo-light-88x31.png" height="30" width="80"></a> <a href="#"><img src="img/projects.png" height="40" width="100"></a>
 										</div>
 									</td>

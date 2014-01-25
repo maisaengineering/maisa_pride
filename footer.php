@@ -14,7 +14,7 @@
 			
 			<tr valign="middle">
 				<td>
-					&#169;2013 Maisa™ Solutions Pvt. Ltd. All rights reserved.
+					&#169;2014 Maisa™ Solutions Pvt. Ltd. All rights reserved.
 				</td>
 			</tr>	
 </table>

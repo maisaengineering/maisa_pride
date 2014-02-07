@@ -110,9 +110,6 @@
 									<li>
 										<a href="ecommerce.php"><span>E-commerce Solutions</span></a>
 									</li>
-									<li>
-										<a href="sapsolutions.php"><span>SAP Solutions</span></a>
-									</li>
 								</ul>
 							</div>
 						</li>

@@ -13,7 +13,9 @@
 	<section id="pagecontent">
 		<section id="careers1">		
 			<section><br>
-				<img src="img/careersimg.jpg" width="140"><br><br>
+				<img src="img/rails-logo.png" width="100" style="margin-left: 22px;"><br><br>
+				<a href="iosdeveloperjobs.php"><section class="careers_a">iOS Developer</section></a><br/>
+				<a href="uideveloperjobs.php"><section class="careers_a">UX Designer</section></a><br/>	
 				<a href="railsdeveloperjobs.php"><section class="careers_a">Rails Developers</section></a><br/>
 				<a href="phpdeveloperjobs.php"><section class="careers_a">PHP Developers</section></a><br/>
 				<a href="itmarketingjobs.php"><section class="careers_a">IT Marketing</section></a><br/>

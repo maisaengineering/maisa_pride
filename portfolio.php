@@ -20,7 +20,7 @@
 							<ul class="gallery clearfix">
 							</ul>
 							<ul class="gallery clearfix">
-								<li><a href="img/portfolios/kidslink.png" rel="prettyPhoto[gallery2]"><img src="img/portfolios/kidslink.png" width="250" height="250" alt="KidsLink" /></a></li>
+								<li><a href="img/portfolios/kl.jpg" rel="prettyPhoto[gallery2]"><img src="img/portfolios/kl.jpg" width="250" height="250" alt="KidsLink" /></a></li>
 							</ul>
 							<h2>Kidslink</h2>
 						</div>

@@ -18,6 +18,7 @@ $mail_options = [
 try {
     $message = new Message($mail_options);
     $message->send();
+    header("Location: thankyou.php");
 } catch (InvalidArgumentException $e) {
 
 }

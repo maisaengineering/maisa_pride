@@ -17,14 +17,14 @@
 							<table>
 								<tr>
 									<td>
-										<!-- <div id="facetweet">
+										<div id="facetweet">
 											<div id="facebook">
 												<a class="addthis_button_facebook_like" addthis:url="http://www.maisasolutions.com/"></a>
 											</div>
 											<div id="tweet">
 												<a class="addthis_button_tweet" addthis:url="http://www.maisasolutions.com/"></a>
-											</div><!-- <div id="share"><a id="share" class="addthis_counter addthis_pill_style" addthis:url="http://www.maisasolutions.com/"></a></div>
-										</div> --> 
+											</div>
+										</div>
 									</td>
 									<td>
 										<div class="logo">

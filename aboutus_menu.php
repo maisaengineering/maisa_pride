@@ -51,10 +51,10 @@
 							<div>
 								<ul>
 									<li>
-										<a href="iPhoneapplicationdevelopment.php"><span>iPhone Apps</span></a>
+										<a href="iphoneapplicationdevelopment.php"><span>iPhone Apps</span></a>
 									</li>
 									<li>
-										<a href="iPadapplicationdevelopment.php"><span>iPad Apps</span></a>
+										<a href="ipadapplicationdevelopment.php"><span>iPad Apps</span></a>
 									</li>
 									<li>
 										<a href="androidapplicationdevelopment.php"><span>Android Apps</span></a>

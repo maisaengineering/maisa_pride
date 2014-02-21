@@ -1,5 +1,5 @@
-application: maisagroupfoods
-version: 14
+application: maisalabs
+version: 3
 runtime: php
 api_version: 1
 

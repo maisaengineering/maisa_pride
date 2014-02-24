@@ -11,14 +11,14 @@
 
 	<section id="main">
 		<section id="pagecontent">
-			<span style="color:#B32010; font-size:20px";><b>Ruby on Rails Development</b></span><br>
+			<span style="color:#F6212D; font-size:20px";><b>Ruby on Rails Development</b></span><br>
 			<b>DRY</b><br>
 			<p>Simply means "Don't Repeat Yourself." We use it when we need it in an application. Through the power of Ruby, it is being used for Rails to bring it to lofe.</p>
 			<b>Convention Over Configuration</b><br>
 			<p>With the fact that Rails has defaults for just about every aspect, following Conventions allow us to write a Rails application using less code and cutting time, money and energy spent in developing.</p>
 			<b>Representational State Transfer</b><br>
 			<p>This is the very foundation of the RESTful architecture. By organizing your application around resources and standard HTTP verbs, we deliver in the fastest way possible.</p><br>
-			<span style="color:#B32010; font-size:16px";><b>MVC Architecture</b></span><br>
+			<span style="color:#F6212D; font-size:16px";><b>MVC Architecture</b></span><br>
 			<span style="color:#000; font-size:14px";><b>Model</b></span><br>
 				<ul id="phonelist">
 					<li>The model is aware of all the data being displayed.</li>
@@ -37,17 +37,17 @@
 					<li>The controller is responsible for intercepting requests from the view to the model.</li>
 					<li>During after each action has been taken on the data, the controller is responsible for directing the appropriate view to the user.</li>
 				</ul>
-			<span style="color:#B32010; font-size:16px";><b>RAILS STRENGTH</b></span>
+			<span style="color:#F6212D; font-size:16px";><b>RAILS STRENGTH</b></span>
 			<p>RAILS is abundant with great features that ensures productivity and efficiency. These features build on one another, allowing for a more complex and aggressive system.</p>
 				<ol id="phonelist">
-					<li><span style="color:#B32010";>Metaprogramming</span> - Ruby is one of the best languages for metaprogramming, and rails takes good advantage of this capability.</li>
-					<li><span style="color:#B32010";>Active Record</span> - The Rails version of Active Record saves objects to the database, thus guaranteeing efficiency.</li>
-					<li><span style="color:#B32010";>Convention Over Configuration</span> - By following suggested naming conventions, Rails doesn't need much configuration.</li>
-					<li><span style="color:#B32010";>Scaffolding</span> - Rails automatically creates the scaffolding you need, shielding you from unnecessary temporary coding work.</li>
-					<li><span style="color:#B32010";>Build-in testing</span> - Since Rails provides a supporting code called harnesses and fixtures, it makes it easier to run test cases. In the end, Ruby can actually execute all the automated tests with the rake utility.</li>
-					<li><span style="color:#B32010";>Three environments</span> - Rails makes available three default environments: development, testing, production. As each behaves differently, it make your entire software development cycle easier.</li>	
+					<li><span style="color:#F6212D";>Metaprogramming</span> - Ruby is one of the best languages for metaprogramming, and rails takes good advantage of this capability.</li>
+					<li><span style="color:#F6212D";>Active Record</span> - The Rails version of Active Record saves objects to the database, thus guaranteeing efficiency.</li>
+					<li><span style="color:#F6212D";>Convention Over Configuration</span> - By following suggested naming conventions, Rails doesn't need much configuration.</li>
+					<li><span style="color:#F6212D";>Scaffolding</span> - Rails automatically creates the scaffolding you need, shielding you from unnecessary temporary coding work.</li>
+					<li><span style="color:#F6212D";>Build-in testing</span> - Since Rails provides a supporting code called harnesses and fixtures, it makes it easier to run test cases. In the end, Ruby can actually execute all the automated tests with the rake utility.</li>
+					<li><span style="color:#F6212D";>Three environments</span> - Rails makes available three default environments: development, testing, production. As each behaves differently, it make your entire software development cycle easier.</li>	
 				</ol>
-			<span style="color:#B32010; font-size:16px";><b>THE ADVANTAGES</b></span>
+			<span style="color:#F6212D; font-size:16px";><b>THE ADVANTAGES</b></span>
 				<ul id="phonelist">
 					<li>Crud</li>
 					<li>Scaffolding</li>

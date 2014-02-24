@@ -10,7 +10,7 @@
 <section class="slideline"/>
 
 <section id="main">
-	<!-- <span style="color:#B32010; font-size:20px;">Get Started</span>
+	<!-- <span style="color:#F6212D; font-size:20px;">Get Started</span>
 	<p>Maisa reduces your total offshore cost significantly by providing high quality, time bound, highly dedicated and cost effective outsourcing through our offshore development services. One of the several key advantages with Maisa is, our customers get 6 days of work by only paying for 5 days. It is 20% more value for your money from week 1 onwards!!!</p>
 	<p>To get started please send us the following information about your project. One of our Project Managers shall evaluate your project requirements and give you a formal proposal. Detailed information will help us evaluate your project accurately.<br></p>	 -->
 

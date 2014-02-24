@@ -12,7 +12,7 @@
 <section id="main">
 	<section id="pagecontent">
 		<section id="hi1">
-			<span style="color:#B32010; font-size:16px;"><P ALIGN="center"><b><br>Web development</b></p></span><br>
+			<span style="color:#F6212D; font-size:16px;"><P ALIGN="center"><b><br>Web development</b></p></span><br>
 
 				<table class="port">
 					<td>
@@ -144,7 +144,7 @@
 				</section>
 
 				<section id="hi2">
-					<span style="color:#B32010; font-size:16px;"><P ALIGN="center"><b><br>Mobile Apps<b></p></span><br>
+					<span style="color:#F6212D; font-size:16px;"><P ALIGN="center"><b><br>Mobile Apps<b></p></span><br>
 
 						<table class="port">
 							<td>

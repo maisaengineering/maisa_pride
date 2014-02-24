@@ -22,7 +22,7 @@
 					<li>determining the relationships between the different information entries like cause and effect, branch and sub-branch, step 1 to step 2, etc.</li>
 					<li>Plotting of the information with proper signs to show the logical flow of the information</li>
 				</ol>
-			<p>We certify that we can give the basic features of a good design: <b style="color:#B32010";>atomicity, uniformity, isolation and durability</b>.</p>
+			<p>We certify that we can give the basic features of a good design: <b style="color:#F6212D";>atomicity, uniformity, isolation and durability</b>.</p>
 		</section>	
 	</section><br>
 <?php include ('footer_foot.php'); ?>

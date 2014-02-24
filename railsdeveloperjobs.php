@@ -22,7 +22,7 @@
 			</section>
 		</section>
 		<section id="careers2"><br>
-			<span style="color:#B32010; font-size:20px">Rails Developer</span><br/><br>
+			<span style="color:#F6212D; font-size:20px">Rails Developer</span><br/><br>
 			<p class="paragraph">
 				We are looking for an experienced Ruby on Rails developer to join us to be the main engineer of our platform. You'll have a huge impact on the expansion of our platform while getting your hands dirty in high-level user experience design and implementation along with lower level server side development. </p>
 				<strong >Responsibilities</strong>

@@ -22,7 +22,7 @@
 			</section>
 		</section>
 		<section id="careers2"><br>
-			<span style="color:#B32010; font-size:20px">IT Marketing</span><br/><br>
+			<span style="color:#F6212D; font-size:20px">IT Marketing</span><br/><br>
 			<b>Responsibilities</b>
 			<ul style="margin-left:18px;">
 				<li>Lead sales and business development</li>

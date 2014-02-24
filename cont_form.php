@@ -9,8 +9,8 @@ use google\appengine\api\mail\Message;
 $message_body = " First Name  : $first_name\n\n Last Name  : $last_name\n\n Email : $email\n\n Skype : $skype\n\n Phone Number : $phone\n\n Company Name : $company_name\n\n Company URL : $url\n\n City : $city\n\n Country : $country\n\n Preferred Work Model : $work_model\n\n Description: $description";
 
 $mail_options = [
-    "sender" => "chandan.benjaram@gmail.com",
-    "to" => "contact@maisasolutions.com",
+    "sender" => "snk.navin143@gmail.com",
+    "to" => "naveen.maisasolutions@gmail.com",
     "subject" => "Enquire Form",
     "textBody" => $message_body
 ];

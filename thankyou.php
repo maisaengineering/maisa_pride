@@ -8,6 +8,6 @@
 	</section>
 </section>
 <div style="text-align: center;margin-top: 128px;font-size: 18px;font-family: cursive;">
-<h1 style="color:#A8001A">Thank you for Contacting Us. We will get back to you soon...</h1>
+<h1 style="color:#F6212D">Thank you for Contacting Us. We will get back to you soon...</h1>
 </div>
 <?php include ('footer_foot.php'); ?>

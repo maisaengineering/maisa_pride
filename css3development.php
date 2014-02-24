@@ -12,7 +12,7 @@
 	<section id="main">
 		<section id="pagecontent">
 
-			<b style="color:#B32010; font-size:16px">CSS3 Development</b><br>
+			<b style="color:#F6212D; font-size:16px">CSS3 Development</b><br>
 				<p class="paragraph">CSS3 is the latest version of CSS. The biggest change that is currently planned with CSS level 3 is the introduction of modules. The advantage to modules is that it (supposedly) allows the specification to be completed and approved more quickly, because segments are completed and approved in chunks. This also allows browser and user-agent manufacturers to support sections of the specification but keep their code bloat to a minimum by only supporting those modules that make sense. For example, a text reader wouldn't need to include modules that only define how an element is going to display visually. But even if it only included the aural modules, it would still be a standards-compliant CSS 3 tool.</p>
 			<b>Some New Features of CSS3</b><br>
 			<b>selectors</b><br>

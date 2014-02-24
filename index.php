@@ -57,7 +57,7 @@
           </li>
           <li><a href="railsdevelopment.php" title="Ruby on Rails Development"><img src="img/rorsmall.gif" width="130" height="90" alt="Ruby on Rails Development" /></a></li>
           <li><a href="androidapplicationdevelopment.php" title="Android Applications Development"><img alt="Android Applications Development" src="img/androidsmall.gif" width="180" height="90" /></a></li>
-          <li><a href="iPhoneapplicationdevelopment.php" title="iPhone/iPad Application Development"><img alt="iPhone/iPad Application Development" src="img/iphonesmall.gif" width="180" height="90" /></a></li>
+          <li><a href="iphoneapplicationdevelopment.php" title="iPhone/iPad Application Development"><img alt="iPhone/iPad Application Development" src="img/iphonesmall.gif" width="180" height="90" /></a></li>
           <li><a href="blackberryapplicationdevelopment.php" title="Blackberry Applications Development"><img src="img/bbsmall.gif" width="180" height="90" alt="Blackberry Applications Development" /></a></li>
           <li><a href="softwaredevelopment.php" title="PHP Developmet"><img src="img/phpsmall.gif" width="180" height="90" alt="PHP Developmet" /></a></li>
           <li>
@@ -104,7 +104,7 @@
   </table>
   <br />
   <div class="half_block">
-    <div class="icon" style="background-color:#A8001A;">
+    <div class="icon" style="background-color:#F6212D;">
       <header>
         <h1 class="headline3 mFontClr centerTxt">HIRE WORLD-CLASS DEVELOPERS</h1>
       </header>
@@ -112,7 +112,7 @@
     </div>
   </div>
   <div class="half_block" style="float: right;margin-right: 356px;">
-    <div class="icon" style="background-position: 0px -74px;background-color:#A8001A;margin:1px;">
+    <div class="icon" style="background-position: 0px -74px;background-color:#F6212D;margin:1px;">
       <header>
         <h1 class="headline3 mFontClr centerTxt">WEB DEVELOPMENT</h1>
       </header>

@@ -11,7 +11,7 @@
 	
 	<section id="main">
 		<section id="pagecontent">
-			<span style="color:#B32010; font-size:20px";><b>iPad Application Development</b></span><br><br>
+			<span style="color:#F6212D; font-size:20px";><b>iPad Application Development</b></span><br><br>
 			<p>In the battle of tablets, the iPad is obviously the emerging victor. Ever since it was launched, it continues to conquer the tablet sector and already taking notable bites out of the PC market.</p>
 			<table>
 				<td id="ipadbox1">

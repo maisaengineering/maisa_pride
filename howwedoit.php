@@ -10,7 +10,7 @@
 <section class="slideline"></section>
 <section id="main">
 	<section id="pagecontent">
-		<span style="color:#F6212D; font-size:16px;"><b>How We Do It</b></span>
+		<span style="color:#C52128; font-size:16px;"><b>How We Do It</b></span>
 		<p>At Maisa<sup style="font-size:7px">TM</sup>, we use a very interactive and highly productive software development methodology, better known as <b>"AGILE METHODOLOGY"</b>, across our projects. Having widely adopted <b>AGILE SCRUM</b> methodology not only makes us productive but also gives freedom to our Customers for any changes in requirements during project execution(SDLC). Better yet, our Customers are given demos at the end of each Sprint (usually a week long).</p>
 		<table>
 			<td id="howwedoittable">

@@ -22,7 +22,7 @@
 			</section>
 		</section>
 		<section id="careers2"><br>
-			<span style="color:#F6212D; font-size:20px">iOS Developer</span><br/><br>
+			<span style="color:#C52128; font-size:20px">iOS Developer</span><br/><br>
 			<b>Required Skills</b>
 			<ul style="margin-left:18px;">
 				<li>5+ years of experience in iPhone development.</li>

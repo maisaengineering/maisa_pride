@@ -11,7 +11,7 @@
 
 <section id="main">
 	<section id="pagecontent">
-		<span style="color:#F6212D; font-size:20px";><b>Web Development</b></span><br>
+		<span style="color:#C52128; font-size:20px";><b>Web Development</b></span><br>
 		<p>Web Development is the non-design aspects of building a website; it includes writing markup and coding. Whether you are revamping a website or starting from scratch, web development helps you identify the key points of your website: who will your audience be, how will they be directed to your website, how to make them stay, and what will keep them returning. It also involves shaping technical, aesthetic, and usability concerns.</p>
 		<p>Being a well-known web development company in India, we always ensure that we serve our global clientele with a wide range of web solutions. We are highly acclaimed on a global scale with our expertise an experience in PHP web development.</p>
 		We understand the advantages of PHP Development for business:
@@ -59,7 +59,7 @@
 		<table>
 		<tr>
 			<td>
-				<span style="color:#F6212D ; font-size:20px;"><b>WE ARE EXPERTS AT</b></span>
+				<span style="color:#C52128 ; font-size:20px;"><b>WE ARE EXPERTS AT</b></span>
 		<p style = "width:270px" "height:800px">In our company we use Ruby On Rails as a core technology for delivering great web products. And it's ipossible to build great web applications without knowledge of many other things: Relation databases, Key-value storages, Proxy, Web and Application servers, Javascript eco system, objective CSS and HTML5, Messaging systems and much more. Inside the company we have a number of approaches for how to learn new things, use them in production and share knowledge with team members.</p>
 	        </td>
 	     <tr>

@@ -21,7 +21,7 @@
 			</section>
 		</section>
 		<section id="careers2"><br>
-			<span style="color:#F6212D; font-size:20px">PHP Developer</span><br><br>
+			<span style="color:#C52128; font-size:20px">PHP Developer</span><br><br>
 			<strong>Responsibilities</strong>
 			<ul style="margin-left:18px;">
 				<li>Front-end development using PHP to develop web-based applications.</li>

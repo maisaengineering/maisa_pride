@@ -104,7 +104,7 @@
   </table>
   <br />
   <div class="half_block">
-    <div class="icon" style="background-color:#F6212D;">
+    <div class="icon" style="background-color:#C52128;">
       <header>
         <h1 class="headline3 mFontClr centerTxt">HIRE WORLD-CLASS DEVELOPERS</h1>
       </header>
@@ -112,7 +112,7 @@
     </div>
   </div>
   <div class="half_block" style="float: right;margin-right: 356px;">
-    <div class="icon" style="background-position: 0px -74px;background-color:#F6212D;margin:1px;">
+    <div class="icon" style="background-position: 0px -74px;background-color:#C52128;margin:1px;">
       <header>
         <h1 class="headline3 mFontClr centerTxt">WEB DEVELOPMENT</h1>
       </header>

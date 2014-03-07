@@ -10,7 +10,7 @@
 	<section class="slideline"></section>
 	<section id="main">
 		<section id="pagecontent">
-			<span style="color:#F6212D; font-size:20px";><b>iPhone Application Development</b></span><br><br>
+			<span style="color:#C52128; font-size:20px";><b>iPhone Application Development</b></span><br><br>
 			<p>Since a business needs presence on iPhones, applications are continuously being created to connect the space between the business and the end-users using iPhone.</p>
 			What can we do to bring success this era of iPhones?
 				<ol id="iphonelist">

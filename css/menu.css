@@ -1,7 +1,7 @@
 #menu {
 	position:relative;
 	height:38px;
-	background-color: #F6212D;
+	background-color: #C52128;
 	z-index:1000;
 }
 #menu .menu { position:absolute; }
@@ -110,7 +110,7 @@
 }
 #menu div a:hover,
 #menu div ul>li:hover>a.parent, #menu div ul li a.parent:hover {
-	background:#F6212D !important;
+	background:#C52128 !important;
 	color:#fff;
 	-webkit-box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.75);
 	-moz-box-shadow:    0px 0px 1px rgba(0, 0, 0, 0.75);
@@ -120,7 +120,7 @@
 	background-position:-768px bottom; 
 }
 #menu div a span:hover {
-	background:#F6212D !important;
+	background:#C52128 !important;
 	color:#fff;
 	-webkit-box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.75);
 	-moz-box-shadow:    0px 0px 1px rgba(0, 0, 0, 0.75);

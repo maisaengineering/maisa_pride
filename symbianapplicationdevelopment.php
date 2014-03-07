@@ -13,7 +13,7 @@
 		<section id="pagecontent">
 			<table>
 				<td id="blackberrybox1">
-					<span style="color:#F6212D; font-size:20px";><b>Symbian Application Development</b></span><br><br>
+					<span style="color:#C52128; font-size:20px";><b>Symbian Application Development</b></span><br><br>
 					<p>Symbian is an advanced mobile operating system accredited by phone manufacturers like Nokia and Sony Ericsson.</p>
 					Symbian app development usually includes enhancing features on:<br>
 						<ol id="phonelist" type="a">

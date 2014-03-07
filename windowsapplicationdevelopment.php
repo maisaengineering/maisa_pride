@@ -13,7 +13,7 @@
 		<section id="pagecontent">
 			<table>
 				<td id="blackberrybox1">
-					<span style="color:#F6212D; font-size:20px";><b>Windows Application Development</b></span><br><br>
+					<span style="color:#C52128; font-size:20px";><b>Windows Application Development</b></span><br><br>
 					<p>Windows application development creates application programming interface (API) used by applications specifically written for Wndows. We take cutting-edge technologies to develop rich, user-friendly, top-quality and effective Windows applications from games to essential business applications. Techniques include using the lastet development platforms, application development tools, and only the best engineering practices.</p>
 				</td>
 				<td>

@@ -194,7 +194,7 @@
 								<div class="img1" align="center">
 									<ul class="gallery clearfix"></ul>
 									<ul class="gallery clearfix">
-										<li><a href="img/portfolios/Car Rental.jpg" rel="prettyPhoto[gallery2]" ><img src="img/portfolios/Car Rental.jpg" width="250" height="250" alt="Car Rental" /></a></li>
+										<li><a href="img/portfolios/CarRental.jpg" rel="prettyPhoto[gallery2]" ><img src="img/portfolios/CarRental.jpg" width="250" height="250" alt="Car Rental" /></a></li>
 									</ul>
 									<h2>Car Rental</h2>
 								</div>
@@ -219,7 +219,7 @@
 									<div class="img1" align="center">
 										<ul class="gallery clearfix"></ul>
 										<ul class="gallery clearfix">
-											<li><a href="img/portfolios/Photo sharing.png" rel="prettyPhoto[gallery2]" ><img src="img/portfolios/Photo sharing.png" width="250" height="250" alt="Photo Sharing" /></a></li>
+											<li><a href="img/portfolios/Photosharing.png" rel="prettyPhoto[gallery2]" ><img src="img/portfolios/Photosharing.png" width="250" height="250" alt="Photo Sharing" /></a></li>
 										</ul>
 										<h2>Photo Sharing</h2>
 									</div><br>

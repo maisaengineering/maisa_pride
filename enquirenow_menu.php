@@ -169,7 +169,7 @@
 				</div>
 			</li>
 		<li class="arrow current">
-			<a href="enquire.php"><span>Enquire Now ?</span></a>
+			<a href="enquire.php"><span>Enquire Now</span></a>
 		</li>
 	</ul>
 

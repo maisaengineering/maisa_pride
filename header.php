@@ -168,7 +168,7 @@
 				</div>
 			</li>
 		<li class="last">
-			<a href="Enquire.php"><span>Enquire Now ?</span></a>
+			<a href="Enquire.php"><span>Enquire Now</span></a>
 		</li>
 	</ul>
 

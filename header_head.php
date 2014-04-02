@@ -7,7 +7,7 @@
 			<meta name="description" content="We offer various IT Offshore Services and Solutions at Low Cost and High Standards. Our Offshore Services include Hire-A-Developer,PHP|HTML5|CSS3|Java Script|AJAX|Ruby on Rails|Mobile|Tablet|Web|eCommerce|RIA Applications Development,SEO|RDBMS|NoSQL Design,Facebook|Twitter|3rd Party integrations…much more" />
 			<meta name="keywords" content="Ruby on Rails Developers, Ruby on Rails Web Application,Ruby on Rails Web Development, Rails Developers, Ruby on Rails Development team, Hire offshore Developer, Offshore Mobile Development, Offshore Software Services, Offshore Web Development, Facebook Apps development, AJAX, JavaScript, HTML5, CSS3, Ruby on Rails, Java, .NET, Content Management Systems, Flash, NoSQL Databases, Toolbar Development, Most trusted result oriented offshore services, Games development, IPhone/IPAD Applications Development, ANDRIOD Development, Windows Development, Symbian Development, Hire Offshore Dvelopers, Hire Mobile Developers, Hire Developers, Hire a Developer, Our Core Values" />
 			<meta name="author" content="maisasolutions.com">
-			<meta name="robots" content="index, follow">
+			<meta name="robots" content="noindex, nofollow">
 			<meta name="revisit-after" content="7 days">
 			<meta name="msvalidate.01" content="F85A57D9955372C1B336AE5022CFA3A2" />
 			<script type="text/javascript" src="js/menujquery.js"></script>

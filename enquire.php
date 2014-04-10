@@ -16,7 +16,7 @@
 
 	<div class="form_style" >
 		<h1>Enquiry Form</h1> 
-		<form name="enquire_form" method="post" id="enquire_form_id" onsubmit="return validateForm();" action="cont_form.php">
+		<form name="enquire_form" method="post" id="enquire_form_id" onsubmit="return validateForm();" action="contact-form-maisa.php">
 			<div>
 				<label>First Name:</label>
 				<input name="first_name" type=text placeholder="First name*" required>

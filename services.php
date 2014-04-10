@@ -23,7 +23,7 @@
                               <div class="slideContent">
                     <div class="slideContentInner">
                                   <h3>Mobile Development</h3>
-                                  <div id="mobileslide"><b>Mobile Application Development</b> is a growing business. Since its inception, mobile devices have evolved from simply providing the basics as enterprise emails and data on-the-move. Mobile devices now hold all types of functionalities through rich applications and services. Mobile Application Development has now become an integral part in the way companies do business, and it continues to do so as this technology has proven to breaking limitations and breaking technological boundaries...<span id="mobilereadmore1" valign="baseline"><a href="mobiledevelopment.php">See More</a></span></div>
+                                  <div id="mobileslide"><b>Mobile Application Development</b> is a growing business. Since its inception, mobile devices have evolved from simply providing the basics as enterprise emails and data on-the-move. Mobile devices now hold all types of functionalities through rich applications and services. Mobile Application Development has now become an integral part in the way companies do business, and it continues to do so as this technology has proven to breaking limitations and breaking technological boundaries...<span id="mobilereadmore1" valign="baseline"><a href="mobile-development.php">See More</a></span></div>
                                 </div>
                   </div>
                               <div class="iconLabelWrap"> <span class="icon icon-check"></span> <span class="label">Mobile Dev.</span> </div>
@@ -32,7 +32,7 @@
                               <div class="slideContent">
                     <div class="slideContentInner">
                                   <h3>Web Development</h3>
-                                  <div id="mobileslide">Web Development is the non-design aspects of building a website it includes writing markup and coding. Whether you are revamping a website or starting from scratch, web development helps you identify the key points of your website who will your audience be, how will they be directed to your website, how to make them stay, and what will keep them returning. It also involves shaping technical, aesthetic, and usability concerns...<span id="mobilereadmore1" valign="baseline"><a href="webdevelopment.php">See More</a></span></div>
+                                  <div id="mobileslide">Web Development is the non-design aspects of building a website it includes writing markup and coding. Whether you are revamping a website or starting from scratch, web development helps you identify the key points of your website who will your audience be, how will they be directed to your website, how to make them stay, and what will keep them returning. It also involves shaping technical, aesthetic, and usability concerns...<span id="mobilereadmore1" valign="baseline"><a href="web-development.php">See More</a></span></div>
                                 </div>
                   </div>
                               <div class="iconLabelWrap"> <span class="icon icon-chart"></span> <span class="label">Web Dev.</span> </div>
@@ -41,7 +41,7 @@
                               <div class="slideContent">
                     <div class="slideContentInner">
                                   <h3>Cloud Computiong</h3>
-                                  <div id="mobileslide">Maisa<sup style="font-size:7px">TM</sup> Solutions offers Software Development Services taking advantage of Cloud Computing technologies like the Amazon Elastic Compute Cloud (EC2) and the Simple Storage Service. With these technologies, we can offload activities requiring processing power to dedicated Machine Images and create powerful internet applications that would previously have been impractical to implement...<span id="mobilereadmore1" valign="baseline"><a href="cloudcomputing.php">See More</a></span></div>
+                                  <div id="mobileslide">Maisa<sup style="font-size:7px">TM</sup> Solutions offers Software Development Services taking advantage of Cloud Computing technologies like the Amazon Elastic Compute Cloud (EC2) and the Simple Storage Service. With these technologies, we can offload activities requiring processing power to dedicated Machine Images and create powerful internet applications that would previously have been impractical to implement...<span id="mobilereadmore1" valign="baseline"><a href="cloud-computing.php">See More</a></span></div>
                                 </div>
                   </div>
                               <div class="iconLabelWrap"> <span class="icon icon-ladder"></span> <span class="label">Clouds</span> </div>
@@ -50,7 +50,7 @@
                               <div class="slideContent">
                     <div class="slideContentInner">
                                   <h3>Hire Developers</h3>
-                                  <div id="mobileslide">Whether you are looking for team of developers or a single developer, our commitment always stays on top of your expectations. While working with you, our engineers are trained and ethically bound to provide continuous recommendations ongoing basis. We believe this approach helps your organization on long run and builds a successful relationship with us...<span id="mobilereadmore1" valign="baseline"><a href="hireadeveloper.php">See More</a></span></div>
+                                  <div id="mobileslide">Whether you are looking for team of developers or a single developer, our commitment always stays on top of your expectations. While working with you, our engineers are trained and ethically bound to provide continuous recommendations ongoing basis. We believe this approach helps your organization on long run and builds a successful relationship with us...<span id="mobilereadmore1" valign="baseline"><a href="hire-a-developer.php">See More</a></span></div>
                                 </div>
                   </div>
                               <div class="iconLabelWrap"> <span class="icon icon-badge"></span> <span class="label">Developers</span> </div>
@@ -68,11 +68,11 @@
         <td><section>
             <table>
               
-                <td><a href="webdevelopment.php"><img src="img/webservice.png"></a></td>
-                <td><a href="mobiledevelopment.php"><img src="img/mobileservice.png"></a></td>
-                <td><a href="softwaredevelopment.php"><img src="img/softwareservice.png"></a></td>
-                <td><a href="cloudcomputing.php"><img src="img/cloudservice.png"></a></td>
-                <td><a href="hireadeveloper.php"><img src="img/developerservice.png"></a></td>
+                <td><a href="web-development.php"><img src="img/webservice.png"></a></td>
+                <td><a href="mobile-development.php"><img src="img/mobileservice.png"></a></td>
+                <td><a href="software-development.php"><img src="img/softwareservice.png"></a></td>
+                <td><a href="cloud-computing.php"><img src="img/cloudservice.png"></a></td>
+                <td><a href="hire-a-developer.php"><img src="img/developerservice.png"></a></td>
             </table>
           </section></td>
     </table>

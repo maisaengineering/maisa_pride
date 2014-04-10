@@ -13,11 +13,11 @@
 		<section id="careers1">		
 			<section><br>
 				<img src="img/careersimg.jpg" width="140" title="jobs"><br><br>
-				<a href="iosdeveloperjobs.php"><section class="careers_a">iOS Developer</section></a><br/>
-				<a href="uideveloperjobs.php"><section class="careers_a">UX Designer</section></a><br/>	
-				<a href="railsdeveloperjobs.php"><section class="careers_a">Rails Developers</section></a><br/>
-				<a href="phpdeveloperjobs.php"><section class="careers_a">PHP Developers</section></a><br/>
-				<a href="itmarketingjobs.php"><section class="careers_a">IT Marketing</section></a><br/>
+				<a href="ios-developer-jobs.php"><section class="careers_a">iOS Developer</section></a><br/>
+				<a href="ui-developer-jobs.php"><section class="careers_a">UX Designer</section></a><br/>	
+				<a href="rails-developer-jobs.php"><section class="careers_a">Rails Developers</section></a><br/>
+				<a href="php-developer-jobs.php"><section class="careers_a">PHP Developers</section></a><br/>
+				<a href="itmarketing-jobs.php"><section class="careers_a">IT Marketing</section></a><br/>
 			</section>
 		</section>
 		<section id="careers2">

@@ -9,12 +9,12 @@
 <section class="slideshow">
   <section class="ruled1">
     <section id="wowslider-container1">
-      <section class="ws_images"> <a href="railsdevelopment.php"><img src="img/rails_slide2.png" alt="Ruby on Rails development" id="wows1"/></a> <a href="webdevelopment.php"><img src="img/webpage_slide.png" alt="web development" id="wows1"/></a> 
+      <section class="ws_images"> <a href="rubyonrails-development.php"><img src="img/rails_slide2.png" alt="Ruby on Rails development" id="wows1"/></a> <a href="web-development.php"><img src="img/webpage_slide.png" alt="web development" id="wows1"/></a> 
         <!-- <a href="MobileDevelopment"><img src="img/mobilepage_slide.png" alt="mobile development" id="wows0"/></a> --> 
-        <a href="hireadeveloper.php"><img src="img/hirepage.jpg" alt="hire developers" id="wows4"/></a> </section>
-      <section class="ws_bullets"> <a href="railsdevelopment.php" ><img src="img/image/rails_slide2.png" alt="web development"/></a> <a href="webdevelopment.php" ><img src="img/image/webpage.jpg" alt="web development"/></a> 
+        <a href="hire-a-developer.php"><img src="img/hirepage.jpg" alt="hire developers" id="wows4"/></a> </section>
+      <section class="ws_bullets"> <a href="rubyonrails-development.php" ><img src="img/image/rails_slide2.png" alt="web development"/></a> <a href="web-development.php" ><img src="img/image/webpage.jpg" alt="web development"/></a> 
         <!-- <a href="MobileDevelopment" ><img src="img/image/mobilepage.jpg" alt="mobile development"/></a> --> 
-        <a href="hireadeveloper.php" ><img src="img/image/hirepage.jpg" alt="hire developers"/></a> </section>
+        <a href="hire-a-developer.php" ><img src="img/image/hirepage.jpg" alt="hire developers"/></a> </section>
     </section>
   </section>
 </section>
@@ -50,36 +50,36 @@
     <div class="customersatisfaction">
       <div class="customersatisfaction-cbg">
         <ul id="mycarousel" class="jcarousel-skin-tango">
-          <li><a href="html5development.php" title="Html5 Development"><img src="img/html5small.png" width="130" height="90" alt="Html5 Development" /></a></li>
-          <li><a href="css3development.php" title="Css3 Development"><img src="img/css3small.png" width="130" height="90" alt="Css3 Development" /></a></li>
+          <li><a href="html5-development.php" title="Html5 Development"><img src="img/html5small.png" width="130" height="90" alt="Html5 Development" /></a></li>
+          <li><a href="css3-development.php" title="Css3 Development"><img src="img/css3small.png" width="130" height="90" alt="Css3 Development" /></a></li>
           <li>
-            <section style="position:relative; float:right; right:85px;margin-top: 20px;"><a href="webdevelopment.php" title="Web Development"><img src="img/ruby-color.png" width="30" height="30" alt="Web Development" /></a></section>
+            <section style="position:relative; float:right; right:85px;margin-top: 20px;"><a href="web-development.php" title="Web Development"><img src="img/ruby-color.png" width="30" height="30" alt="Web Development" /></a></section>
           </li>
-          <li><a href="railsdevelopment.php" title="Ruby on Rails Development"><img src="img/rorsmall.gif" width="130" height="90" alt="Ruby on Rails Development" /></a></li>
-          <li><a href="androidapplicationdevelopment.php" title="Android Applications Development"><img alt="Android Applications Development" src="img/androidsmall.gif" width="180" height="90" /></a></li>
-          <li><a href="iphoneapplicationdevelopment.php" title="iPhone/iPad Application Development"><img alt="iPhone/iPad Application Development" src="img/iphonesmall.gif" width="180" height="90" /></a></li>
-          <li><a href="blackberryapplicationdevelopment.php" title="Blackberry Applications Development"><img src="img/bbsmall.gif" width="180" height="90" alt="Blackberry Applications Development" /></a></li>
-          <li><a href="softwaredevelopment.php" title="PHP Developmet"><img src="img/phpsmall.gif" width="180" height="90" alt="PHP Developmet" /></a></li>
+          <li><a href="rubyonrails-development.php" title="Ruby on Rails Development"><img src="img/rorsmall.gif" width="130" height="90" alt="Ruby on Rails Development" /></a></li>
+          <li><a href="android-application-development.php" title="Android Applications Development"><img alt="Android Applications Development" src="img/androidsmall.gif" width="180" height="90" /></a></li>
+          <li><a href="iphone-application-development.php" title="iPhone/iPad Application Development"><img alt="iPhone/iPad Application Development" src="img/iphonesmall.gif" width="180" height="90" /></a></li>
+          <li><a href="blackberry-application-development.php" title="Blackberry Applications Development"><img src="img/bbsmall.gif" width="180" height="90" alt="Blackberry Applications Development" /></a></li>
+          <li><a href="software-development.php" title="PHP Developmet"><img src="img/phpsmall.gif" width="180" height="90" alt="PHP Developmet" /></a></li>
           <li>
-            <section style="position:relative; float:right; right:66px;margin-top: 3px;"><a href="cakephpdevelopment.php" title="CakePHPDevelopment"><img src="img/cake.jpg" width="70" height="70" alt="CakePHPDevelopment" /></a></section>
-          </li>
-          <li>
-            <section style="position:relative; float:right; right:66px;margin-top: 0px;"><a href="mobiledevelopment.php" title="MobileDevelopment"><img src="img/phonegap-preview.png" width="90" height="90" alt="MobileDevelopment" /></a></section>
+            <section style="position:relative; float:right; right:66px;margin-top: 3px;"><a href="cakephp-development.php" title="CakePHPDevelopment"><img src="img/cake.jpg" width="70" height="70" alt="CakePHPDevelopment" /></a></section>
           </li>
           <li>
-            <section style="position:relative; float:right; right:26px;margin-top: 20px;"><a href="webdevelopment.php" title="WebDevelopment"><img src="img/cassandra-color.png" width="150" height="30" alt="WebDevelopment" /></a></section>
+            <section style="position:relative; float:right; right:66px;margin-top: 0px;"><a href="mobile-development.php" title="MobileDevelopment"><img src="img/phonegap-preview.png" width="90" height="90" alt="MobileDevelopment" /></a></section>
           </li>
           <li>
-            <section style="position:relative; float:right; right:50px;margin-top: 20px;"><a href="webdevelopment.php" title="Web Development"><img src="img/nodejs-color.png" width="92" height="25" alt="Web Development" /></a></section>
+            <section style="position:relative; float:right; right:26px;margin-top: 20px;"><a href="web-development.php" title="WebDevelopment"><img src="img/cassandra-color.png" width="150" height="30" alt="WebDevelopment" /></a></section>
           </li>
           <li>
-            <section style="position:relative; float:right; right:50px;margin-top: 20px;"><a href="databasedesign.php" title="Web Development"><img src="img/mongodb-color.png" width="103" height="30" alt="Web Development" /></a></section>
+            <section style="position:relative; float:right; right:50px;margin-top: 20px;"><a href="web-development.php" title="Web Development"><img src="img/nodejs-color.png" width="92" height="25" alt="Web Development" /></a></section>
           </li>
           <li>
-            <section style="position:relative; float:right; right:85px;margin-top: 20px;"><a href="webdevelopment.php" title="Web Development"><img src="img/couchdb-color.png" width="36" height="33" alt="Web Development" /></a></section>
+            <section style="position:relative; float:right; right:50px;margin-top: 20px;"><a href="database-design.php" title="Web Development"><img src="img/mongodb-color.png" width="103" height="30" alt="Web Development" /></a></section>
           </li>
           <li>
-            <section style="position:relative; float:right; right:50px;margin-top: 20px;"><a href="webdevelopment.php" title="Web Development"><img src="img/redis-color.png" width="94" height="30" alt="Web Development" /></a></section>
+            <section style="position:relative; float:right; right:85px;margin-top: 20px;"><a href="web-development.php" title="Web Development"><img src="img/couchdb-color.png" width="36" height="33" alt="Web Development" /></a></section>
+          </li>
+          <li>
+            <section style="position:relative; float:right; right:50px;margin-top: 20px;"><a href="web-development.php" title="Web Development"><img src="img/redis-color.png" width="94" height="30" alt="Web Development" /></a></section>
           </li>
         </ul>
       </div>
@@ -99,7 +99,7 @@
   <!-- <h1 class="headline3 mFontClr centerTxt">WE ARE EXPERTS AT</h1> -->
   <table>
     <tr>
-      <td><p class="justifiedTxt"> <a class="aHoverEffect" href="webdevelopment.php">HTML5</a> | <a class="aHoverEffect" href="webdevelopment.php">PHP</a> | <a class="aHoverEffect" href="webdevelopment.php">Ruby on Rails</a> | <a class="aHoverEffect" href="webdevelopment.php">JavaScript Frameworks (Node.js, Backbone.js, etc)</a> | <a class="aHoverEffect" href="webdevelopment.php">NoSQL (Cassandra, Couchbase, MongoDB, etc) </a> | <a class="aHoverEffect" href="webdevelopment.php">Cloud Computing (AWS, Heroku, Engine Yard, etc)</a> | <a class="aHoverEffect" href="webdevelopment.php">Java/J2EEE Stack</a> | <a class="aHoverEffect" href="webdevelopment.php">Agile Methodologies</a> | <a class="aHoverEffect" href="webdevelopment.php">Test Driven Development</a> | <a class="aHoverEffect" href="howwedoit.php">Content Management Systems </a> | <a class="aHoverEffect" href="webdevelopment.php">24/7 Production Support </a> | <a class="aHoverEffect" href="webdevelopment.php">List growing...</a> </p></td>
+      <td><p class="justifiedTxt"> <a class="aHoverEffect" href="web-development.php">HTML5</a> | <a class="aHoverEffect" href="web-development.php">PHP</a> | <a class="aHoverEffect" href="web-development.php">Ruby on Rails</a> | <a class="aHoverEffect" href="web-development.php">JavaScript Frameworks (Node.js, Backbone.js, etc)</a> | <a class="aHoverEffect" href="web-development.php">NoSQL (Cassandra, Couchbase, MongoDB, etc) </a> | <a class="aHoverEffect" href="web-development.php">Cloud Computing (AWS, Heroku, Engine Yard, etc)</a> | <a class="aHoverEffect" href="web-development.php">Java/J2EEE Stack</a> | <a class="aHoverEffect" href="web-development.php">Agile Methodologies</a> | <a class="aHoverEffect" href="web-development.php">Test Driven Development</a> | <a class="aHoverEffect" href="howwedoit.php">Content Management Systems </a> | <a class="aHoverEffect" href="web-development.php">24/7 Production Support </a> | <a class="aHoverEffect" href="web-development.php">List growing...</a> </p></td>
     </tr>
   </table>
   <br />
@@ -108,7 +108,7 @@
       <header>
         <h1 class="headline3 mFontClr centerTxt">HIRE WORLD-CLASS DEVELOPERS</h1>
       </header>
-      <p>Our team of smart thinking and hard-working engineers can guarantee the highest possible service for all your needs. Our goal is exceed all expectations to ensure 100% client satisfaction in our hopes to build a long and successful relationship with you...<span id="homehireread1"><a href="hireadeveloper.php">See More</a></span></p>
+      <p>Our team of smart thinking and hard-working engineers can guarantee the highest possible service for all your needs. Our goal is exceed all expectations to ensure 100% client satisfaction in our hopes to build a long and successful relationship with you...<span id="homehireread1"><a href="hire-a-developer.php">See More</a></span></p>
     </div>
   </div>
   <div class="half_block" style="float: right;margin-right: 356px;">
@@ -116,7 +116,7 @@
       <header>
         <h1 class="headline3 mFontClr centerTxt">WEB DEVELOPMENT</h1>
       </header>
-      <p>The future of Semantic Web (Web 3.0) mostly focuses on this technology going mainstream. Web 3.0 is slowly grasping a whole new level of multi-tiered Web applications. Focusing on the long-term state of things, Semantic Web technologies (Web 3.0) are maturing and its technological power could be used to describe...<span id="homehireread1"><a href="webdevelopment.php">See More</a></span></p>
+      <p>The future of Semantic Web (Web 3.0) mostly focuses on this technology going mainstream. Web 3.0 is slowly grasping a whole new level of multi-tiered Web applications. Focusing on the long-term state of things, Semantic Web technologies (Web 3.0) are maturing and its technological power could be used to describe...<span id="homehireread1"><a href="web-development.php">See More</a></span></p>
     </div>
   </div>
 </section>

@@ -16,7 +16,7 @@
 					<tr style="padding-bottom: 20px;" valign="middle">
 						<!-- <td valign="middle"><img alt="Pradeep" height="143" id="D#http://resources.css.edu/administration/images/abbotg.apter08.jpg" src="http://resources.css.edu/administration/images/abbotg.apter08.jpg" style="vertical-align: top; border: black 1px solid;" width="114" /></td>
 						<td> -->
-							<h2>Niveditha Gurram, Director of HR & Business Dev</h2>
+							<h2>Niveditha Reddy, Director of Human Resources</h2>
 							<p class="m-desc">Nivi, with over 10years of problem solving experience, plays a key role to the company for both internal & external communication. Extremely detailed and ability to bridge gap between engineering & management puts her in such a key role for us.</p>
 						</td>
 					</tr>
@@ -24,6 +24,7 @@
 						<!-- <td valign="middle"><img alt="Pradeep" height="143" id="D#http://resources.css.edu/administration/images/abbotg.apter08.jpg" src="http://resources.css.edu/administration/images/abbotg.apter08.jpg" style="vertical-align: top; border: black 1px solid;" width="114" /></td>
 						<td> -->
 							<h2>Prasanna Patil, Director of U.S. Ops</h2>
+							<p class="m-desc"><a href="">ppatil@maisasolutions.com</a></br>Prasanna recipient of Graduate Citation holds a Masters degree from CUNY and is also PMP certified. Prasanna brings over a decade of management, business transformation and information technology consulting experience in delegating and deploying large global enterprise applications. In addition to overseeing the company’s US operations on a daily basis, Prasanna is passionately involved in client facing, ERP solution architecture and IT project management/implementations activities. Prasanna in paramount positions has consulted for several large scale global fortunes 500 clients.As partner and founding member he will head the clientele management and all the implementations of Maisa’s information technology service offerings, an area in which he holds a track record of excellence.</p>
 						</td>
 					</tr>
 

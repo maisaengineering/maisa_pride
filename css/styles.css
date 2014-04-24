@@ -645,13 +645,83 @@ a img {
 	width: 400px;
 	margin-left: 10px;
 	margin-top:5px;
+	text-align: center;
 }
 #contact2 {
 	float: right;
 	width: 400px;
 	margin-left:0px;
 	margin-right: 17px;
-	margin-top:0px;
+	margin-top:5px;
+	text-align: center;
+}
+#contact1 h2{
+	font-family: "Ruda";
+    font-weight: bold;
+    color: #C52128;
+    font-size: 20px;
+    line-height: 0.5px;
+}
+#contact2 div{
+	font-family: Ruda;
+font-size: 14px;
+color: #595959;
+line-height: 1.5em;
+text-align: left;
+margin-left: 115px;
+}
+#contact1 div{
+font-family: Ruda;
+font-size: 14px;
+color: #595959;
+line-height: 1.5em;
+text-align: left;
+margin-left: 115px;
+}
+#contact2 h2{
+	font-family: "Ruda";
+font-weight: bold;
+color: #C52128;
+font-size: 20px;
+line-height: 0.5px;
+}
+.contact_bottom{
+	width:920px;
+	margin-top:58px
+}
+.contact_email{
+width: 223px;
+float: left;
+margin-left: 205px;
+}
+.contact_email img{
+	width:40px;
+	float:left;
+}
+.contact_email p{
+	text-align: right;
+font-family: Ruda;
+font-size: 14px;
+color: #595959;
+line-height: 1.5em;
+font-weight:bold;
+}
+.contact_skyp{
+	width: 116px;
+float: left;
+margin-left: 125px;
+}
+.contact_skyp img{
+	width:40px;
+	float:left;
+	margin-top: -5px;
+}
+.contact_skyp p{
+	text-align: right;
+font-family: Ruda;
+font-size: 14px;
+color: #595959;
+line-height: 1.8em;font-weight:bold;
 }
 .whoweareimage{
 	float:right;
@@ -1328,9 +1398,26 @@ input .check
 	float: left;
 	width: 920px;
 	margin-left: 10px;
-	margin-top:10px;
+	margin-top:18px;
 	margin-right:10px;
 	color:#000000;
+}
+#pagecontent h3{
+	line-height: 0.1em;
+	font-size: 18px;
+	color:#C52128;
+}
+#pagecontent article span{
+	font-weight:bold;
+position: relative;
+top: -8px;font-size: 12px;
+}
+#pagecontent article p{
+	font-family: Arial, sans-serif;
+font-weight: normal;
+color: #555;
+font-size: 14px;
+line-height: 21px;
 }
 
 #pagecontent3 {
@@ -2339,4 +2426,7 @@ margin-bottom: -28px;
 .red_block ol p{
 	font-size: 1.2em;
 line-height: 32px;
+}
+.clear{
+	clear: both !important;
 }

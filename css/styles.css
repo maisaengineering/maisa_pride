@@ -1406,6 +1406,7 @@ input .check
 	line-height: 0.1em;
 	font-size: 18px;
 	color:#C52128;
+	font-weight: normal;
 }
 #pagecontent article span{
 	font-weight:bold;

@@ -28,21 +28,7 @@
       
         <td style="width: 100px;"><span class="extramoney"><img src="img/extra.png" style="width:100px; height:70px;" alt="extra 20% more value"/></span></td>
         <td><div class="fadehide">
-            <table >
-              <tr>
-                <td  class="newsfade"><ul id="news" type="none">
-                    <li class="newsid">
-                      <p>Enjoy our award winning free 6th day of work.<!-- for every week. --></p>
-                    </li>
-                    <li class="newsid">
-                      <p>Work with experts. We build your business.</p>
-                    </li>
-                    <li class="newsid">
-                      <p>Hire Developers from as low as $9/hr. Save big!</p>
-                    </li>
-                  </ul></td>
-              </tr>
-            </table>
+            <marquee behavior="scroll" direction="left" style="color: #C52128;font-size:13px">Enjoy our award winning free 6th day of work for every week.</marquee>
           </div></td>
     </table>
   </div>
@@ -58,13 +44,14 @@
           <li><a href="rubyonrails-development.php" title="Ruby on Rails Development"><img src="img/rorsmall.gif" width="130" height="90" alt="Ruby on Rails Development" /></a></li>
           <li><a href="android-application-development.php" title="Android Applications Development"><img alt="Android Applications Development" src="img/androidsmall.gif" width="180" height="90" /></a></li>
           <li><a href="iphone-application-development.php" title="iPhone/iPad Application Development"><img alt="iPhone/iPad Application Development" src="img/iphonesmall.gif" width="180" height="90" /></a></li>
-          <li><a href="blackberry-application-development.php" title="Blackberry Applications Development"><img src="img/bbsmall.gif" width="180" height="90" alt="Blackberry Applications Development" /></a></li>
+          <!-- <li><a href="blackberry-application-development.php" title="Blackberry Applications Development"><img src="img/bbsmall.gif" width="180" height="90" alt="Blackberry Applications Development" /></a></li> -->
           <li><a href="software-development.php" title="PHP Developmet"><img src="img/phpsmall.gif" width="180" height="90" alt="PHP Developmet" /></a></li>
+          <li><a href="software-development.php" title="Spree Development"><img src="img/spree_small.png" width="180" height="90" alt="Spree Development" /></a></li>
+          <li><a href="software-development.php" title="Shopify Development"><img src="img/shopify_small.png" width="180" height="90" alt="Shopify Development" /></a></li>
+          <li><a href="mobile-development.php" title="Mobile Development"><img src="img/phonegap_small.png" width="160" height="90" alt="Mobile Development" /></a></li>
+
           <li>
             <section style="position:relative; float:right; right:66px;margin-top: 3px;"><a href="cakephp-development.php" title="CakePHPDevelopment"><img src="img/cake.jpg" width="70" height="70" alt="CakePHPDevelopment" /></a></section>
-          </li>
-          <li>
-            <section style="position:relative; float:right; right:66px;margin-top: 0px;"><a href="mobile-development.php" title="MobileDevelopment"><img src="img/phonegap-preview.png" width="90" height="90" alt="MobileDevelopment" /></a></section>
           </li>
           <li>
             <section style="position:relative; float:right; right:26px;margin-top: 20px;"><a href="web-development.php" title="WebDevelopment"><img src="img/cassandra-color.png" width="150" height="30" alt="WebDevelopment" /></a></section>
@@ -112,7 +99,7 @@
     </div>
   </div>
   <div class="half_block" style="float: right;margin-right: 356px;">
-    <div class="icon" style="background-position: 0px -74px;background-color:#C52128;margin:1px;">
+    <div class="icon" style="background-position: 0px -35px;background-color:#C52128;margin:1px;">
       <header>
         <h1 class="headline3 mFontClr centerTxt">WEB DEVELOPMENT</h1>
       </header>
@@ -120,25 +107,9 @@
     </div>
   </div>
 </section>
-<section id="page" class="red_block" style="margin-left:-10px"> <img src="img/values.png">
-  <ol>
-    <li>
-      <p>Expertise in What We Do</p>
-    </li>
-    <li>
-      <p>Trust & Transparency</p>
-    </li>
-    <li>
-      <p>100% Commitment</p>
-    </li>
-    <li>
-      <p>Professionalism</p>
-    </li>
-    <li>
-      <p>Responsibility</p>
-    </li>
-  </ol>
-</section>
+
+  <img src="img/wq.png">
+
 <script type="text/javascript" src="js/smallslider.js"></script> 
 <script type="text/javascript" src="js/jqfade.js"></script> 
 <script type="text/javascript">

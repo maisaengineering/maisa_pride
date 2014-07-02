@@ -10,6 +10,7 @@
 			<meta name="robots" content="noindex, nofollow">
 			<meta name="revisit-after" content="7 days">
 			<meta name="msvalidate.01" content="F85A57D9955372C1B336AE5022CFA3A2" />
+            <script type="text/javascript" src="js/modernizr.js"></script>
 			<script type="text/javascript" src="js/menujquery.js"></script>
 			<script type="text/javascript" src="js/menu.js"></script>
 			<script type="text/javascript" src="js/jqfade.js"></script>
@@ -41,6 +42,18 @@
 			_=[];$.src=('https:'==d.location.protocol?'https://ssl':'http://cdn')+
 			'.zopim.com/?FnXksRucv8sJ5z3D14sLU8cJkuuPGrPU';$.type='text/java'+s;z.
 			t=+new Date;z._=[];e.parentNode.insertBefore($,e)})(document,'script')
+			</script>
+			<script type="text/javascript">
+             $("#slideshowbg > div:gt(0)").hide();
+
+setInterval(function() { 
+  $('#slideshowbg > div:first')
+    .fadeOut(2000)
+    .next()
+    .fadeIn(2000)
+    .end()
+    .appendTo('#slideshowbg');
+},  6000);
 			</script>
 			<!-- End of Zopim Live Chat Script -->
 			</head>

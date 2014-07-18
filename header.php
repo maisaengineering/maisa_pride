@@ -1,175 +1,40 @@
-<link rel="stylesheet" type="text/css" href="css/styles.css" />
-<link rel="stylesheet" type="text/css" href="css/menu.css" />
-<div id="menu" class="globalfont">
-		<ul class="menu">
-			<li class="arrow current">
-				<a href="index.php"><span>Home</span></a>
-			</li>
-			<li>
-			    <a href="hire-a-developer.php" class="parent"><span>Hire-A-Dev</span></a>
-		    </li>
-			<li>
-				<a href="services.php" class="parent"><span>Services</span></a>
-				<div>
-					<ul>
-						<li>
-							<a href="web-development.php" class="parent"><span>Web Development</span></a>
-							<div>
-								<ul>
-									<li>
-										<a href="rubyonrails-development.php"><span>Ruby on Rails</span></a>
-									</li>
-									<li>
-										<a href="cakephp-development.php"><span>PHP/CakePHP</span></a>
-									</li>
-									<li>
-										<a href="richappdevelopment.php" class="parent"><span>Rich Applications</span></a>
-										<div>
-											<ul>
-												<li>
-													<a href="ttml5development.php"><span>HTML5</span></a>
-												</li>
-												<li>
-													<a href="css3-development.php"><span>CSS3</span></a>
-												</li>
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="SHORTCUT ICON" href="favicon.ico"/>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name = "format-detection" content = "telephone=no">
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width" />
+    <title>Rails|Cloud|HTML5|CSS3|MongoDB|Offshore IT| Several other offshore services...</title>
+    <link rel="stylesheet" type="text/css" href="css/master.css">
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <script src="js/smooth.pack.js" type="text/javascript"></script>
+    <script src="js/bjqs-1.3.min.js"></script>
+    <script src="js/jquery-1.11.0.min.js"></script>
+    <script src="js/modernizr.js"></script>
+    <script src="js/lightbox.min.js"></script>
+    <script src="js/likebuttons.js"></script>
+    <link href="css/lightbox.css" rel="stylesheet" />
+</head>
 
-												<li>
-													<a href="richappdevelopment.php"><span>Others</span></a>
-												</li>
-											</ul>
-										</div>
-									</li>
-									<li>
-										<a href="web-development.php"><span>Others</span></a>
-									</li>
-								</ul>
-							</div>
-						</li>
-						<li>
-							<a href="mobile-development.php" class="parent"><span>Mobile Development</span></a>
-							<div>
-								<ul>
-									<li>
-										<a href="iphone-application-development.php"><span>iPhone Apps</span></a>
-									</li>
-									<li>
-										<a href="ipad-application-development.php"><span>iPad Apps</span></a>
-									</li>
-									<li>
-										<a href="android-application-development.php"><span>Android Apps</span></a>
-									</li>
-									<li>
-										<a href="mobile-development.php"><span>Others</span></a>
-									</li>
-								</ul>
-							</div>
-						</li>
+<body>
 
-						<li>
-							<a href="softwaredevelopment" class="parent"><span>Software Development</span></a>
-							<div>
-								<ul>
-									<li>
-										<a href="contentmanagement.php" class="parent"><span>CMS</span></a>
-										<div>
-											<ul>
-												<li>
-													<a href="contentmanagement.php"><span>Alfresco Development</span></a>
-												</li>
-												<li>
-													<a href="contentmanagement.php"><span>Liferay Development</span></a>
-												</li>
-												<li>
-													<a href="contentmanagement.php"><span>Others</span></a>
-												</li>
-											</ul>
-										</div>
-									</li>
+<a class="scroll-point pt-top" name="top"></a>
 
-									<li>
-										<a href="web-development.php"><span>C, C++, Java</span></a>
-									</li>
-
-									<li>
-										<a href="browser-development.php" class="parent"><span>Browser Development</span></a>
-										<div>
-											<ul>
-												<li>
-													<a href="browser-development.php"><span>Mozilla(XUL) Development</span></a>
-												</li>
-												<li>
-													<a href="browser-development.php"><span>Internet Explorer Development</span></a>
-												</li>
-												<li>
-													<a href="browser-development.php"><span>Others</span></a>
-												</li>
-											</ul>
-										</div>
-									</li>
-									<li>
-										<a href="ecommerce.php"><span>E-commerce Solutions</span></a>
-									</li>
-								</ul>
-							</div>
-						</li>
-						<li>
-							<a href="cloud-computing.php"><span>Cloud Computing</span></a>
-							<div>
-								<ul>
-									<li>
-										<a href="database-design.php"><span>Mongo DB</span></a>
-									</li>
-									<li>
-										<a href="database-design.php"><span>Cassandra</span></a>
-									</li>
-									<li>
-										<a href="database-design.php"><span>MySQL</span></a>
-									</li>
-									<li>
-										<a href="database-design.php"><span>Oracle</span></a>
-									</li>
-									<li>
-										<a href="database-design.php"><span>Others</span></a>
-									</li>
-								</ul>
-							</div>
-
-						</li>
-					</ul>
-				</div>
-			</li>
-		</li>
-		<li>
-			<a href="howwedoit.php"><span>Process</span></a>
-		</li>
-		<li>
-			<a href="portfolio.php"><span>Portfolio</span></a>
-		</li>
-		<li>
-				<a href="#" class="parent"><span>The Pride</span></a>
-				<div>
-					<ul>
-						<li>
-							<a href="values.php"><span>Values</span></a>
-						</li>
-						<li>
-			                <a href="http://maisaengineering.github.io/" target="blank"><span>Blog</span></a>
-		                </li>						
-						<li>
-							<a href="management.php"><span>Management</span></a>
-						</li>						
-						<li>
-							<a href="jobs.php"><span>Careers</span></a>
-						</li>						
-						<li>
-							<a href="contactus.php"><span>Contact Us</span></a>
-						</li>
-					</ul>
-				</div>
-			</li>
-		<li class="last">
-			<a href="Enquire.php"><span>Enquire Now</span></a>
-		</li>
-	</ul>
-
-</div>
+<div id="header">
+    <div class="wrap">
+        <a class="logo" href="#top"></a>
+        <div class="menu">
+            <a href="index.php">Home</a>
+            <a href="index.php #services">Services</a>
+            <a href="index.php #process">Process</a>
+            <a href="portfolio.php">Portfolio</a>
+            <a href="enquire_form.php">Enquire</a>
+            <a href="about_us.php">About Us</a>
+        </div>
+         <?php include ('commons.php'); ?>
+    </div>
+    <div class="shadow"></div>
+</div> 

@@ -15,7 +15,7 @@
 									<td>
 										<div id="facetweet">
 											<div id="facebook">
-												<a class="addthis_button_facebook_like" addthis:url="http://www.maisasolutions.com/"></a>
+												<div class="fb-like" data-href="https://www.facebook.com/MaisaSolutions" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
 											</div>
 											<div id="tweet">
 												<a class="addthis_button_tweet" addthis:url="http://www.maisasolutions.com/"></a>
@@ -38,4 +38,11 @@
 	</section>
 
 
-
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=265270373662090&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>

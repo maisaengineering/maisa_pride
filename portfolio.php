@@ -70,6 +70,14 @@
  <a class="example-image" href="img/portfolios/desertbook_web.png" data-lightbox="example-set"><img src="img/portfolios/desertbook_web.png" width="260" height="240"></a>
  <div class="desc_portfolio">Desert Book</div>
 </div>
+<div class="portfolio_img">
+ <a class="example-image" href="img/portfolios/addament_web.png" data-lightbox="example-set"><img src="img/portfolios/addament_web.png" width="260" height="240"></a>
+ <div class="desc_portfolio">Addament</div>
+</div>
+<div class="portfolio_img">
+ <a class="example-image" href="img/portfolios/maisafoods_web.png" data-lightbox="example-set"><img src="img/portfolios/maisafoods_web.png" width="260" height="240"></a>
+ <div class="desc_portfolio">Maisa Foods</div>
+</div>
 </div>       
 <hr>
  <!-- #######################################################Mobile Apps ############################################################################-->

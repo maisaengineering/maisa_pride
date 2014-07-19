@@ -19,6 +19,8 @@
     <script src="js/modernizr.js"></script>
      <script src="js/likebuttons.js"></script>
     <script src="js/bjqs-1.3.min.js"></script>
+    <script src="js/lightbox.min.js"></script>
+    <link href="css/lightbox.css" rel="stylesheet" />
 </head>
 
 <body>
@@ -131,6 +133,7 @@ $("#siteloader").html('<object data="http://maisaengineering.github.io/2014/03/0
             <li><h1>ECIL X Roads, Hyderabad</h1></li>
             <li><h1>A.P., India 500062</h1></li>
             <li><h1>+91-040-401-77227 (INDIA)</h1></li>
+            <li><h1>contact@maisasolutions.com</h1></li>
         </ul>
     </div>
     <div class="contact2">    
@@ -141,6 +144,7 @@ $("#siteloader").html('<object data="http://maisaengineering.github.io/2014/03/0
             <li><h1>Santa Clara, CA</h1></li>
             <li><h1>USA 95054</h1></li>
             <li><h1>+1-707-709-8961 (USA)</h1></li>
+            <li><h1>hr@maisasolutions.com</h1></li>
         </ul>
                
     </div>    

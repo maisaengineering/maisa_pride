@@ -99,9 +99,6 @@ p {
   font-size: 15px;
   font-family: 'proxima-nova', Arial, tahoma, sans-serif;
 }
-p + p {
-  margin-top: 2em;
-}
 .button-container {
   position: absolute;
   right: -5px;
@@ -109,29 +106,22 @@ p + p {
 }
 .button {
   display: block;
-  background: url(images/sprite.png) no-repeat;
-  background-color: #4cc2e4;
-  background-position: 100% -171px;
-  width: 288px;
-  padding: 16px;
-  color: #fff;
-  font-size: 24px;
-  text-decoration: none;
-  position: relative;
-  top: -5px;
-  left: -5px;
-  -webkit-transition: background 0.25s linear;
-  -moz-transition: background 0.25s linear;
-  transition: background 0.25s linear;
+background-color: #ffffff;
+background-position: 100% -171px;
+width: 178px;
+padding: 16px;
+color: #fff;
+font-size: 28px;
+text-decoration: none;
+font-weight: bold;
+top: -5px;
+left: -5px;
+border-radius: 6px;
+-webkit-transition: background 0.25s linear;
+-moz-transition: background 0.25s linear;
+transition: background 0.25s linear;
 }
-.button:hover {
-  background-color: #4cd6fc;
-  color: #fff;
-}
-div.button,
-div.button:hover {
-  background-color: #abafb0;
-}
+
 .button label {
   display: block;
   font-size: 0.5em;
@@ -257,10 +247,19 @@ hr {
 ---------------------------------------------------*/
 #footer {
   padding: 32px 0 64px;
+  background: url("../img/bg_footer.png");
 }
 #footer p {
   color:#000000;
   font-size: 12px;
   line-height: 1.5em;
 }
-
+.f1{
+  width: 100%;
+  background: url("../img/bg_footer.png");
+}
+.footerhead {
+color: #888;
+font-size: 17px;
+font-weight: bold;
+}

@@ -12,15 +12,14 @@
     <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" type="text/css" href="css/master.css">
     <link rel="stylesheet" type="text/css" href="css/styles.css">
-    <link rel="stylesheet" href="css/bjqs.css">
+    <link rel="stylesheet" type="text/css" href="css/jquery.fancybox.css" media="screen" />
     <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js?ver=3.5.1'></script>
     <script src="js/smooth.pack.js" type="text/javascript"></script>
     <script type="text/javascript" src="js/jquery-1.6.1.min.js"></script>
     <script src="js/modernizr.js"></script>
      <script src="js/likebuttons.js"></script>
-    <script src="js/bjqs-1.3.min.js"></script>
-    <script src="js/lightbox.min.js"></script>
-    <link href="css/lightbox.css" rel="stylesheet" />
+    <script type="text/javascript" src="js/jquery.fancybox.js"></script>
+    <script type="text/javascript" src="js/jquery.fancybox-media.js"></script>
 </head>
 
 <body>
@@ -34,8 +33,8 @@
             <a href="index.php">Home</a>
             <a href="#thepride">The Pride</a>
             <a href="#career">Careers</a>
+            <a href="http://maisaengineering.github.io/" target="_blank">Blog</a>
             <a href="#contact">Contact Us</a>
-            <a href="#blog" target="_blank">Blog</a>
         </div>
          <?php include ('commons.php'); ?>
     </div>
@@ -59,7 +58,7 @@
                 <p>Nivi, with over 10years of problem solving experience, plays a key role to the company for both internal & external communication. Extremely detailed and ability to bridge gap between engineering & management puts her in such a key role for us.</p>
             </article></br>
             <article>
-                <h1 style="color:#C52128; font-size:16px"><b>Prasanna Patil</b></h1><span style="color:#000000;font-size:14px;"><b>Director of U.S. Ops</b></br> <a href="">ppatil@maisasolutions.com</a></span>
+                <h1 style="color:#C52128; font-size:16px"><b>Prasanna Patil</b></h1><span style="color:#000000;font-size:14px;"><b>Director of U.S. Ops</b></span>
 
                 <p>Prasanna recipient of Graduate Citation holds a Masters degree from CUNY and is also PMP certified. Prasanna brings over a decade of management, business transformation and information technology consulting experience in delegating and deploying large global enterprise applications. In addition to overseeing the company’s US operations on a daily basis, Prasanna is passionately involved in client facing, ERP solution architecture and IT project management/implementations activities. Prasanna in paramount positions has consulted for several large scale global fortunes 500 clients.As partner and founding member he will head the clientele management and all the implementations of Maisa’s information technology service offerings, an area in which he holds a track record of excellence.</p>
             </article>
@@ -68,9 +67,10 @@
  <!-- ########################################################The pride end ################################################-->
  <!-- ########################################################Carrer start ################################################-->
  <a class="scroll-point pt-top" name="career"></a>
+
  <div class="grid leadin" style="height:460px">
  <div class="wrap">
-    <h1 style="color:#C52128; font-size:22px;"><b>Careers</b></h1><br><hr>
+    <h1 style="color:#C52128; font-size:22px;"><b>Careers</b></h1><br>
         <section id="careers1">     
             <section><br>
                 <img src="img/careersimg.jpg" width="140" title="jobs"><br><br>
@@ -93,30 +93,17 @@
                         </ul>
                     </td>  
                     <td align="right" class="jobsheading">  
-                        <span style="background-color:#ffffff">Then <br>you're exactly<br> what <br>we're looking <br>for!</span>
+                        <span>Then <br>you're exactly<br> what <br>we're looking <br>for!</span><br>   
                     </td>
                 </tr>
             </table>
+            <br><br>
+            <span style="font-size:18px;">Please drop an email with your Resume to hr@maisasolutions.com</span>
         </section>
 </div>
 </div>       
  <hr/>
- <!-- ########################################################Carrer end ################################################-->
-  <a class="scroll-point pt-top" name="blog"></a>
-    
-        <div class="wrap " >
-        
-    <h1 style="color:#C52128; font-size:22px;"><b>Blog</b></h1>
-        <div id="siteloader"></div>
-    </div>
-    
-    
-<script>
-$("#siteloader").html('<object data="http://maisaengineering.github.io/2014/03/03/Application-Programming-Interface-Security.html" />');
-</script>
-
-</div>
-
+ 
  <!-- ########################################################contact us start ################################################-->
 <a class="scroll-point pt-top" name="contact"></a>
 
@@ -154,4 +141,6 @@ $("#siteloader").html('<object data="http://maisaengineering.github.io/2014/03/0
 </div>
 
  <!-- ########################################################contact us start ################################################-->
+<div class="f1">    
 <?php include ('footer.php'); ?>
+</div>

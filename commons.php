@@ -24,7 +24,7 @@
 									</td>
 									<td>
 										<div>
-											<a class="example-image" href="img/iso_cert.jpg" data-lightbox="example-set"><img src="img/iso_cert.jpg" height="50" width="100" title="ISO Certified Company 9001:2008"></a>
+											<a class="fancybox" href="img/iso_cert.jpg"><img src="img/1_isotxt.png" height="30" width="50" title="ISO Certified Company 9001:2008"></a>
 											<a href="http://partners.heroku.com/maisa-solutions" target="blank"><img src="img/heroku-logo-light-88x31.png" height="30" width="80"></a> <a href="#"><img src="img/projects.png" height="40" width="120"></a>
 										</div>
 									</td>
@@ -46,3 +46,35 @@
   js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=265270373662090&version=v2.0";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
+<script type="text/javascript">
+    $(document).ready(function() {
+      /*
+       *  Simple image gallery. Uses default settings
+       */
+
+      $('.fancybox').fancybox();
+
+      /*
+      /*
+       *  Media helper. Group items, disable animations, hide arrows, enable media and button helpers.
+      */
+      $('.fancybox-media')
+        .attr('rel', 'media-gallery')
+        .fancybox({
+          openEffect : 'none',
+          closeEffect : 'none',
+          prevEffect : 'none',
+          nextEffect : 'none',
+
+          arrows : false,
+          helpers : {
+            media : {},
+            buttons : {}
+          }
+        });
+
+      /*
+       *  Open manually
+       */
+    });
+  </script>

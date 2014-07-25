@@ -60,4 +60,6 @@
 </section>
 </div>       
  <hr/>
+<div class="f1">    
 <?php include ('footer.php'); ?>
+</div>

@@ -11,12 +11,12 @@
     <link rel="stylesheet" type="text/css" href="css/master.css">
     <link rel="stylesheet" type="text/css" href="css/styles.css">
     <script src="js/smooth.pack.js" type="text/javascript"></script>
-    <script src="js/bjqs-1.3.min.js"></script>
     <script src="js/jquery-1.11.0.min.js"></script>
     <script src="js/modernizr.js"></script>
-    <script src="js/lightbox.min.js"></script>
     <script src="js/likebuttons.js"></script>
-    <link href="css/lightbox.css" rel="stylesheet" />
+    <script type="text/javascript" src="js/jquery.fancybox.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/jquery.fancybox.css" media="screen" />
+    <script type="text/javascript" src="js/jquery.fancybox-media.js"></script>
 </head>
 
 <body>
@@ -25,7 +25,7 @@
 
 <div id="header">
     <div class="wrap">
-        <a class="logo" href="#top"></a>
+        <a class="logo" href="index.php"></a>
         <div class="menu">
             <a href="index.php">Home</a>
             <a href="index.php #services">Services</a>

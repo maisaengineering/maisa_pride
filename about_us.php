@@ -102,43 +102,44 @@
         </section>
 </div>
 </div>       
- <hr/>
+
  
  <!-- ########################################################contact us start ################################################-->
 <a class="scroll-point pt-top" name="contact"></a>
-
-<div class ="grid leadin" style="height:368px">
-   <div class="wrap">
-    <div class="corner"></div>
-    <h2 style="color:#C52128; font-size:22px;"><b>Contact Us</b></h2>
-    <div>
-        <div class="contact1">
- <ul class="text-block">
+<div class="wrap">
+    <h2 style="color:#C52128; font-size:22px;margin-top:10px;"><b>Contact Us</b></h2><hr/>
+    <div class="contact1">
+        <ul class="text-block">
             <li><h1><strong>Development Center</strong></h1></li><br>
             <li><h1>Flat# 201, 2nd floor</h1></li>
             <li><h1>Mythri Apartments</h1></li>
             <li><h1>ECIL X Roads, Hyderabad</h1></li>
             <li><h1>A.P., India 500062</h1></li>
             <li><h1>+91-040-401-77227 (INDIA)</h1></li>
-            <li><h1>contact@maisasolutions.com</h1></li>
         </ul>
+        <br>   
     </div>
     <div class="contact2">    
- <ul class="text-block" style="float:right">
+        <ul class="text-block">
            <li><h1><strong>United States Office</strong></h1></li><br>
             <li><h1>540 Mansion Park Drive</h1></li>
             <li><h1>Suite #102</h1></li>
             <li><h1>Santa Clara, CA</h1></li>
             <li><h1>USA 95054</h1></li>
             <li><h1>+1-707-709-8961 (USA)</h1></li>
-            <li><h1>hr@maisasolutions.com</h1></li>
-        </ul>
-               
-    </div>    
+        </ul> 
+        <br>            
+    </div> 
+    <div class="contact3">
+        <ul class="email_cont">
+            <li><img src="img/emailus.png" width="40"><p>contact@maisasolutions.com</a></li><br><br>
+            <li><img src="img/skype.png" width="40"><p style="margin-right: 105px;">#cbenjaram</p></li>
+        </ul> 
+        <br>     
     </div>
-       
-   </div>
+    
 </div>
+<hr>
 
  <!-- ########################################################contact us start ################################################-->
 <div class="f1">    

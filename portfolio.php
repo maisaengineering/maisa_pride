@@ -16,11 +16,11 @@
   <hr>
   <div class="portfolio_img">
  <a class="fancybox" href="img/portfolios/kidslink_web.png"><img src="img/portfolios/kidslink_web.png" width="260" height="240"></a>
- <div class="desc_portfolio">Kidslink is a dynamic child and family service organization offering a wide range of integrated programs and services.</div>
+ <div class="desc_portfolio"><img src="img/portfolios/1.png" width="140"></div>
 </div>
 <div class="portfolio_img">
  <a class="fancybox" href="img/portfolios/koordit_web.png"><img src="img/portfolios/koordit_web.png" width="260" height="240"></a>
- <div class="desc_portfolio">Koordit</div>
+ <div class="desc_portfolio"><img src="img/portfolios/2.png" width="140"></div>
 </div>
 <div class="portfolio_img">
  <a class="fancybox" href="img/portfolios/att_web.png"><img src="img/portfolios/att_web.png" width="260" height="240"></a>
@@ -33,20 +33,20 @@
 </div>
  <div class="portfolio_img">
  <a class="fancybox" href="img/portfolios/tribally_web.png"><img src="img/portfolios/tribally_web.png" width="260" height="240"></a>
- <div class="desc_portfolio">Tribally is one of the Ecommerce website. where the bussinesses sell products to customers with offers for group of people.</div>
+ <div class="desc_portfolio"><img src="img/portfolios/3.png" width="140"></div>
 </div>
 <div class="portfolio_img">
  <a class="fancybox" href="img/portfolios/seedstarter_web.png"><img src="img/portfolios/seedstarter_web.png" width="260" height="240"></a>
- <div class="desc_portfolio">Seedstarter is one of the croudfunding website. We can share our projects with others to get funds</div>
+ <div class="desc_portfolio"><img src="img/portfolios/4.png" width="140"></div>
 </div>
 <hr>
 <div class="portfolio_img">
  <a class="fancybox" href="img/portfolios/ishlist_web.png"><img src="img/portfolios/ishlist_web.png" width="260" height="240"></a>
- <div class="desc_portfolio">Ishlist is a social music channel. we can add songs ,videos and we can share through social networks.</div>
+ <div class="desc_portfolio"><img src="img/portfolios/5.png" width="140"></div>
 </div>
 <div class="portfolio_img">
  <a class="fancybox" href="img/portfolios/ashoka_web.png"><img src="img/portfolios/ashoka_web.png" width="260" height="240"></a>
- <div class="desc_portfolio">Ashoka Hub is a private social networking site.</div>
+ <div class="desc_portfolio"><img src="img/portfolios/6.png" width="140"></div>
 </div>
  <div class="portfolio_img">
  <a class="fancybox" href="img/portfolios/dojitsu_web.png"><img src="img/portfolios/dojitsu_web.png" width="260" height="240"></a>
@@ -55,7 +55,7 @@
 <hr>
 <div class="portfolio_img">
  <a class="fancybox" href="img/portfolios/materialtracker_web.png"><img src="img/portfolios/materialtracker_web.png" width="260" height="240"></a>
- <div class="desc_portfolio">Material Tracker is a web application used for tracking material.</div>
+ <div class="desc_portfolio"><img src="img/portfolios/7.png" width="140"></div>
 </div>
 <div class="portfolio_img">
  <a class="fancybox" href="img/portfolios/chickenhouse_web.png"><img src="img/portfolios/chickenhouse_web.png" width="260" height="240"></a>
@@ -63,20 +63,20 @@
 </div>
 <div class="portfolio_img">
  <a class="fancybox" href="img/portfolios/oldcar_web.png"><img src="img/portfolios/oldcar_web.png" width="260" height="240"></a>
- <div class="desc_portfolio">Old Racing car is a web application which is used for buying and selling of the cars.</div>
+ <div class="desc_portfolio"><img src="img/portfolios/8.png" width="140"></div>
 </div>
 <hr>
 <div class="portfolio_img">
  <a class="fancybox" href="img/portfolios/desertbook_web.png"><img src="img/portfolios/desertbook_web.png" width="260" height="240"></a>
- <div class="desc_portfolio">Desert Book</div>
+ <div class="desc_portfolio"><img src="img/portfolios/9.png" width="140"></div>
 </div>
 <div class="portfolio_img">
  <a class="fancybox" href="img/portfolios/addament_web.png"><img src="img/portfolios/addament_web.png" width="260" height="240"></a>
- <div class="desc_portfolio">Addament</div>
+ <div class="desc_portfolio"><img src="img/portfolios/10.png" width="140"></div>
 </div>
 <div class="portfolio_img">
  <a class="fancybox" href="img/portfolios/maisafoods_web.png"><img src="img/portfolios/maisafoods_web.png" width="260" height="240"></a>
- <div class="desc_portfolio">Maisa Foods</div>
+ <div class="desc_portfolio"><img src="img/portfolios/11.png" width="140"></div>
 </div>
 </div>       
 <hr>

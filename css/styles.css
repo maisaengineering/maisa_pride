@@ -1,11 +1,4 @@
 
-@font-face
-{
-    font-family: "HelveticaNeue-Light";
-    src: url(../fonts/HelveticaNeue-Light.ttf);
-    font-style: normal;
-    font-weight: normal;
-}
 img {
     border: 0;
 }
@@ -374,6 +367,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a6000000', e
   height: 86px;
 border-radius: 6px;
 }
+.desc_portfolio img{
+    margin-top: 28px;
+}
 .desc_portfolio_mob{
     text-align: center;
   font-weight: normal;
@@ -458,13 +454,13 @@ width: 85px;
 .v_maisa{
     height:700px;
     width:100%;
-    background: url(images/pattern.png) #C52128 50%;
+    background:#ffffff;
 }
 
 .v_maisa .textbox {
 position: relative;
 width:452px;
-color: #ffffff;
+color: #3b4854;
 margin:auto;
 float: right;
 }
@@ -497,7 +493,7 @@ margin-top: 0px;
 }
 .we_build{
     font-size: 2em;
-    color:#ffffff;
+    color:#3b4854;
     font-family: -webkit-body;
     font-weight:bold; 
 }
@@ -515,7 +511,7 @@ margin-right: 130px;
 }
 .we_off h3{
     font-size:1.5em;
-    color:#ffffff;
+    color:#3b4854;
     margin-left: 94px;
     margin-top: 70px;
     font-family: -webkit-body;

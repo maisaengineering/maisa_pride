@@ -8,8 +8,6 @@
     <meta name = "format-detection" content = "telephone=no">
     <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width" />
     <title>Rails|Cloud|HTML5|CSS3|MongoDB|Offshore IT| Several other offshore services...</title>
-    <link rel="stylesheet" href="css/syntax.css">
-    <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" type="text/css" href="css/master.css">
     <link rel="stylesheet" type="text/css" href="css/styles.css">
     <link rel="stylesheet" type="text/css" href="css/jquery.fancybox.css" media="screen" />
@@ -83,7 +81,7 @@
 </div>
 
   <div class="wrap">
-    <div class="v_maisa" style="height:125px">
+    <div class="v_maisa" style="height:125px;background:#C52128;">
     <br>
     <div class="scroll2">
     <div class="scroll3">

@@ -106,7 +106,7 @@ p {
 }
 .button {
   display: block;
-background-color: #ffffff;
+background-color: #C52128;
 background-position: 100% -171px;
 width: 178px;
 padding: 16px;
@@ -122,10 +122,8 @@ border-radius: 6px;
 transition: background 0.25s linear;
 }
 
-.button label {
-  display: block;
-  font-size: 0.5em;
-  height: 16px;
+.button a {
+  color:#ffffff;
 }
 .clear {
   clear: both;

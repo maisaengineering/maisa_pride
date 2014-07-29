@@ -8,14 +8,11 @@
     <meta name = "format-detection" content = "telephone=no">
     <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width" />
     <title>Rails|Cloud|HTML5|CSS3|MongoDB|Offshore IT| Several other offshore services...</title>
-    <link rel="stylesheet" href="css/syntax.css">
-    <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" type="text/css" href="css/master.css">
     <link rel="stylesheet" type="text/css" href="css/styles.css">
     <link rel="stylesheet" type="text/css" href="css/jquery.fancybox.css" media="screen" />
     <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js?ver=3.5.1'></script>
     <script src="js/smooth.pack.js" type="text/javascript"></script>
-    <script type="text/javascript" src="js/jquery-1.6.1.min.js"></script>
     <script src="js/modernizr.js"></script>
      <script src="js/likebuttons.js"></script>
     <script type="text/javascript" src="js/jquery.fancybox.js"></script>

@@ -6,7 +6,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name = "format-detection" content = "telephone=no">
-    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width" />
     <title>Rails|Cloud|HTML5|CSS3|MongoDB|Offshore IT| Several other offshore services...</title>
     <link rel="stylesheet" type="text/css" href="css/master.css">
     <link rel="stylesheet" type="text/css" href="css/styles.css">
@@ -18,17 +17,76 @@
     <script src="js/likebuttons.js"></script>
     <script type="text/javascript" src="js/jquery.fancybox.js"></script>
     <script type="text/javascript" src="js/jquery.fancybox-media.js"></script>
+    <script type="text/javascript" src="js/scroll_icons.js"></script>
+            <link rel="stylesheet" type="text/css" href="css/scroll_icon.css" />
+    <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-25285304-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();    
+    </script>
+
+      <!-- Start of Zopim Live Chat Script -->
+      <script type="text/javascript">
+    window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=
+    z.s=d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o
+      ){z.set._.push(o)};$.setAttribute('charset','utf-8');$.async=!0;z.set.
+      _=[];$.src=('https:'==d.location.protocol?'https://ssl':'http://cdn')+
+      '.zopim.com/?FnXksRucv8sJ5z3D14sLU8cJkuuPGrPU';$.type='text/java'+s;z.
+      t=+new Date;z._=[];e.parentNode.insertBefore($,e)})(document,'script')
+      </script>
+      <script type="text/javascript">
+             $("#slideshowbg > div:gt(0)").hide();
+
+setInterval(function() { 
+  $('#slideshowbg > div:first')
+    .fadeOut(2000)
+    .next()
+    .fadeIn(2000)
+    .end()
+    .appendTo('#slideshowbg');
+},  6000);
+      </script>
 </head>
 
 <body>
-
+<div style="margin:0 auto;">
 <a class="scroll-point pt-top" name="top"></a>
 
 <div id="header">
     <div class="wrap">
+      <div class="wrapper">
+          <div class="wrapper2">
+              <ul id="contact-us-floating">
+                <li class="facebook"> <a href="http://www.facebook.com/MaisaSolutions" title="Maisa Solutions at Facebook" target="blank"></a>
+                  <div class="right-side"></div>
+                </li>
+                <li class="twitter"> <a href="https://twitter.com/maisasolutions" title="Maisa Solutions at Twitter" target="blank"></a>
+                  <div class="right-side"></div>
+                </li>
+                <li class="email">
+                  <div class="right-side"> <a href="ContactUs" title="Contact Us" target="blank"></a>
+                  <div class="box"> <a href="about_us.php #contact">contact@maisasolutions.com</a> </div>
+                  </div>
+                </li>
+                <li class="phone">
+                  <div class="right-side">
+                  <a href="contactus.php" title="Contact Us"></a>
+                  <div class="box"> <a href="about_us.php #contact" target="blank">+1-707-709-8961 (USA)<br/>
+                    +91-040-401-77227 (INDIA)</a> </div>
+                  </div>  
+                </li>
+              </ul>
+          </div>
+         </div>
         <a class="logo" href="#top"></a>
         <div class="menu">
-            <a href="#top">Home</a>
+            <a href="index.php #top">Home</a>
             <a href="#services">Services</a>
             <a href="#process">Process</a>
             <a href="portfolio.php">Portfolio</a>
@@ -39,6 +97,7 @@
     </div>
     <div class="shadow"></div>
 </div> 
+
 <!--################################################## /header end ###################################################################################-->
 <div class="header-placeholder"></div>
 
@@ -47,14 +106,12 @@
       <div class="wrap">
         <br>
         <br>
-        <br>
-        <br>
         <div class="youtube_img">
            <a class="fancybox-media" href="http://www.youtube.com/embed/tSvrwM9-Xmg"><img src="img/maisa_v2.png" width="480"></a>
         </div>
       <div class="textbox">
-      <h1 class="we_build">WE DON'T<br> JUST BUILD PRODUCTS,<br> WE BUILD BUSINESSES</h1><br>
-      <p style="font-size: 18px;">We build awesome things for the web & mobile.We’re creators, designers, engineers, educators and problem solvers.Let us build your awesome product...</p>
+      <h1 class="we_build">WE DON'T<br> JUST BUILD PRODUCTS,<br> WE BUILD BUSINESSES!</h1><br>
+      <p style="font-size: 18px;">We build awesome things for the web & mobile. We’re creators, designers, engineers, educators and problem solvers.Let us build your awesome product...</p>
       <br>
       <div class="button">
         <a href="enquire_form.php">Get In Touch</a>
@@ -70,16 +127,6 @@
       </div>
       </div>
 <div class="shadow"></div>    
-<div class="wrap">
-  <br>
-      <p><b>Maisa Solutions</b> holds a high reputation and proven track record for providing solutions to information technology problems of varying complexity. Our highly competitive core group of developers and programmers offer one-of-a-kind offshore services across the globe. We are experts in dealing with technologies in varying levels, including emerging ones.</p>
-      <table>
-    <tr>
-      <td><p class="justifiedTxt"> <a class="aHoverEffect" href="#services">HTML5</a> | <a class="aHoverEffect" href="#services">PHP</a> | <a class="aHoverEffect" href="#services">Ruby on Rails</a> | <a class="aHoverEffect" href="#services">JavaScript Frameworks (Node.js, Backbone.js, etc)</a> | <a class="aHoverEffect" href="#services">NoSQL (Cassandra, Couchbase, MongoDB, etc) </a> | <a class="aHoverEffect" href="#services">Cloud Computing (AWS, Heroku, Engine Yard, etc)</a> | <a class="aHoverEffect" href="#services">Java/J2EEE Stack</a> | <a class="aHoverEffect" href="#services">Agile Methodologies</a> | <a class="aHoverEffect" href="#services">Test Driven Development</a> | <a class="aHoverEffect" href="#services">Content Management Systems </a> | <a class="aHoverEffect" href="#services">24/7 Production Support. </a></p></td>
-    </tr>
-  </table>
-</div>
-
   <div class="wrap">
     <div class="v_maisa" style="height:125px;background:#C52128;">
     <br>
@@ -121,6 +168,16 @@
   </div>
   </div>
 </div>
+</div>
+<div class="wrap">
+  <br>
+  <table>
+    <tr>
+      <td><p class="justifiedTxt"><a class="aHoverEffect" href="#services">Mobile Application Development (iOS/Andriod)</a> | <a class="aHoverEffect" href="#services">HTML5</a> | <a class="aHoverEffect" href="#services">PHP</a> | <a class="aHoverEffect" href="#services">Ruby on Rails</a> | <a class="aHoverEffect" href="#services">JavaScript Frameworks (Node.js, Backbone.js, etc)</a> | <a class="aHoverEffect" href="#services">NoSQL (Cassandra, Couchbase, MongoDB, etc) </a> | <a class="aHoverEffect" href="#services">Cloud Computing (AWS, Heroku, Engine Yard, etc)</a> | <a class="aHoverEffect" href="#services">Java/J2EEE Stack</a> | <a class="aHoverEffect" href="#services">Agile Methodologies</a> | <a class="aHoverEffect" href="#services">Test Driven Development</a> | <a class="aHoverEffect" href="#services">Content Management Systems </a> | <a class="aHoverEffect" href="#services">24/7 Production Support. </a></p></td>
+    </tr>
+  </table>
+      <p><b>Maisa Solutions</b> holds a high reputation and proven track record for providing solutions to information technology problems of varying complexity. Our highly competitive core group of developers and programmers offer one-of-a-kind offshore services across the globe. We are experts in dealing with technologies in varying levels, including emerging ones.</p>
+         <img src="img/wq.png" style="width: 1008px;height:230px;">
 </div>
 
 <!-- ################################################################################### Home Page end ##############################################-->

@@ -12,6 +12,11 @@
 						<td align="right">
 							<table>
 								<tr>
+                  <td>
+                    <div class="iso_cert">
+                    <a class="fancybox" href="img/iso_cert.jpg"><img src="img/1_isotxt.png" height="30" width="50" title="ISO Certified Company 9001:2008"></a>
+                    </div>
+                  </td>
 									<td>
 										<div id="facetweet">
 											<div id="facebook">
@@ -24,7 +29,7 @@
 									</td>
 									<td>
 										<div>
-											<a class="fancybox" href="img/iso_cert.jpg"><img src="img/1_isotxt.png" height="30" width="50" title="ISO Certified Company 9001:2008"></a>
+											
 											<a href="http://partners.heroku.com/maisa-solutions" target="blank"><img src="img/heroku-logo-light-88x31.png" height="30" width="80"></a> <a href="#"><img src="img/projects.png" height="40" width="120"></a>
 										</div>
 									</td>

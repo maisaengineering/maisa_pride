@@ -9,15 +9,6 @@ body, h1, h2, h3, h4, input, button {
     font-weight: 300;
     overflow-x: hidden;
 }
-#header {
-    height: 90px;
-    position: fixed;
-    z-index: 10;
-    left: 0;
-    right: 0;
-    background: #fff;
-    border-bottom: 1px solid #ddd;
-}
 .leadin {
     margin-bottom: 32px;
 }
@@ -109,7 +100,7 @@ width: 20%;
 float: right;
 clear: right;
 margin-right: 20px;
-margin-top: -9px;
+margin-top: -5px;
 border: 1px solid #cccccc;
 -webkit-border-radius: 5px;
 border-radius: 5px;
@@ -452,9 +443,10 @@ width: 85px;
     background: #ffffff;
 }
 .v_maisa{
-    height:700px;
+    height:535px;
     width:100%;
     background:#ffffff;
+    margin:0 auto;
 }
 
 .v_maisa .textbox {
@@ -513,8 +505,12 @@ margin-right: 130px;
     font-size:1.5em;
     color:#3b4854;
     margin-left: 94px;
-    margin-top: 70px;
+    margin-top: 32px;
     font-family: -webkit-body;
     font-weight:bold; 
+}
+.iso_cert{
+    margin-right:10px; 
+    margin-top: 10px;
 }
 

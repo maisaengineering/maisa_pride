@@ -161,6 +161,7 @@ hr {
   left: 0;
   right: 0;
   background: #fff;
+  margin: 0 auto;
   border-bottom: 1px solid #ddd;
 }
 #header .shadow {

@@ -86,7 +86,7 @@ setInterval(function() {
          </div>
         <a class="logo" href="#top"></a>
         <div class="menu">
-            <a href="index.php #top">Home</a>
+            <a href="index.php#top">Home</a>
             <a href="#services">Services</a>
             <a href="#process">Process</a>
             <a href="portfolio.php">Portfolio</a>

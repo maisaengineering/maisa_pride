@@ -3,12 +3,12 @@
     <table style="text-align: center; width: 100%;">
       <tr valign="middle">
         <td>
-          <span class="footerhead">Have an idea? Let us help you make it real! Our IT experts are <a href="about_us.php #contact">here</a> to work with you.</span>
+          <span class="footerhead">Have an idea? Let us help you make it real! Our IT experts are <a href="about_us.php#contact">here</a> to work with you.</span>
         </td>
       </tr>
       <tr valign="middle">
         <td>
-          <a href="index.php">Home</a> | <a href="about_us.php">About Us</a> | <a href="enquire_form.php">Enquire Now</a> | <a href="about_us.php #contact">Contact Us</a>
+          <a href="index.php">Home</a> | <a href="about_us.php">About Us</a> | <a href="enquire_form.php">Enquire Now</a> | <a href="about_us.php#contact">Contact Us</a>
         </td>
       </tr> 
       

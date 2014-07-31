@@ -63,8 +63,8 @@ setInterval(function() {
         <a class="logo" href="#top"></a>
         <div class="menu">
             <a href="index.php">Home</a>
-            <a href="index.php #services">Services</a>
-            <a href="index.php #process">Process</a>
+            <a href="index.php#services">Services</a>
+            <a href="index.php#process">Process</a>
             <a href="portfolio.php">Portfolio</a>
             <a href="enquire_form.php">Enquire</a>
             <a href="about_us.php">About Us</a>

@@ -21,10 +21,10 @@ position: relative;
   margin: 0 !important;
   padding: 0 !important;
   list-style: none !important;
-  margin-top: 45px !important;
+  margin-top: 115px !important;
   position: absolute;
-  left: -30px;
-  top: 60px;
+  left: 0px;
+  top: 0px
   text-align: left;
   z-index: 50;
 }

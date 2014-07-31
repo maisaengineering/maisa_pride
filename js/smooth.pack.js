@@ -1,17 +1,3 @@
-/*--------------------------------------------------------------------------
-
- *  Smooth Scroller Script, version 1.0.1
-
- *  (c) 2007 Dezinerfolio Inc. <midart@gmail.com>
-
- *
-
- *  For details, please check the website : http://dezinerfolio.com/
-
- *
-
-/*--------------------------------------------------------------------------*/
-
 
 
 Scroller = {

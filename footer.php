@@ -8,7 +8,7 @@
       </tr>
       <tr valign="middle">
         <td>
-          <a href="index.php">Home</a> | <a href="about_us.php">About Us</a> | <a href="enquire_form.php">Enquire Now</a> | <a href="about_us.php#contact">Contact Us</a>
+          <a href="index.php">Home</a> | <a href="about_us.php">About Us</a> | <a href="enquire.php">Enquire Now</a> | <a href="about_us.php#contact">Contact Us</a>
         </td>
       </tr> 
       

@@ -1,0 +1,23 @@
+application: maisalabs
+version: 26
+runtime: php
+api_version: 1
+
+handlers:
+- url: /img
+  static_dir: img
+  application_readable: true
+
+- url: /css
+  static_dir: css
+  application_readable: true
+
+- url: /js
+  static_dir: js
+  application_readable: true
+
+- url: /(.+)\.(.+)
+  script: \1.\2
+
+- url: /
+  script: index.php

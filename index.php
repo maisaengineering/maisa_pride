@@ -1,5 +1,5 @@
-<?php include ('header.php'); ?>      
-<!-- ####################################################header part ########################################################-->          
+<?php include ('header.php'); ?>
+<!-- ####################################################header part ########################################################-->
 <a class="scroll-point pt-top" name="top"></a>
 
 <div id="header">
@@ -13,10 +13,10 @@
             <a href="enquire.php">Enquire</a>
             <a href="about_us.php">About Us</a>
         </div>
-         <?php include ('commons.php'); ?>         
+         <?php include ('commons.php'); ?>
     </div>
     <div class="shadow"></div>
-</div> 
+</div>
 
 <!--################################################## /header end ###################################################################################-->
 <div class="header-placeholder"></div>
@@ -31,7 +31,7 @@
       </div>
     <div class="textbox">
     <h1 class="we_build">WE DON'T<br> JUST BUILD PRODUCTS,<br> WE BUILD BUSINESSES!</h1><br>
-    <p style="font-size: 18px;">We build awesome things for the web & mobile. We’re creators, designers, engineers, educators and problem solvers.Let us build your awesome product...</p>
+    <p style="font-size: 18px;">We build awesome things for the web & mobile. We’re creators, designers, engineers, educators and problem solvers. Let us build your awesome product...</p>
     <br>
     <div class="button">
       <a href="enquire.php">Get In Touch</a>
@@ -46,14 +46,14 @@
     </div>
 </div>
 </div>
-<div class="shadow"></div>    
+<div class="shadow"></div>
   <div class="wrap">
     <div class="v_maisa" style="height:125px;background:#C52128;">
     <br>
     <div class="scroll2">
     <div class="scroll3">
     <table>
-      
+
         <td style="width: 100px;"><span class="extramoney"><img src="img/extra.png" style="width:100px; height:70px;" alt="extra 20% more value"/></span></td>
         <td style="width: 585px;"><div class="fadehide">
             <marquee behavior="scroll" direction="left" style="color: #C52128;font-size:13px">Enjoy our award winning free 6th day of work for every week.</marquee>
@@ -70,7 +70,7 @@
           <li><a href="" title="Ruby on Rails Development"><img src="img/rorsmall.gif" width="130" height="90" alt="Ruby on Rails Development" /></a></li>
           <li><a href="" title="Android Applications Development"><img alt="Android Applications Development" src="img/androidsmall.gif" width="180" height="90" /></a></li>
           <li><a href="" title="iPhone/iPad Application Development"><img alt="iPhone/iPad Application Development" src="img/iphonesmall.gif" width="180" height="90" /></a></li>
-          
+
           <li><a href="" title="PHP Developmet"><img src="img/phpsmall.gif" width="180" height="90" alt="PHP Developmet" /></a></li>
           <li><a href="" title="Spree Development"><img src="img/spree_small.png" width="180" height="90" alt="Spree Development" /></a></li>
           <li><a href="" title="Shopify Development"><img src="img/shopify_small.png" width="180" height="90" alt="Shopify Development" /></a></li>
@@ -159,8 +159,8 @@
     </div>
 <hr>
 <!-- ###############################################  Process End/ ##################################################################-->
-<script type="text/javascript" src="js/smallslider.js"></script> 
-<script type="text/javascript" src="js/jqfade.js"></script> 
+<script type="text/javascript" src="js/smallslider.js"></script>
+<script type="text/javascript" src="js/jqfade.js"></script>
 <script type="text/javascript">
     function mycarousel_initCallback(carousel)
     {
@@ -188,7 +188,7 @@
         //easing: 'swing',
         initCallback: mycarousel_initCallback
       });
-    
+
         $('#news').innerfade({
           animationtype: 'fade',
           speed: 1000,
@@ -196,7 +196,7 @@
           type: 'random'
         });
     });
-  
+
     var faderIndex = 0,
     faders = $('.fadey');
 
@@ -210,8 +210,8 @@
       });
     }
     nextFade();
-    </script> 
+    </script>
 <!-- ####################################################################footerpart #######################################-->
-<div class="f1">    
+<div class="f1">
 <?php include ('footer.php'); ?>
 </div>

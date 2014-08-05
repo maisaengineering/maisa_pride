@@ -1,5 +1,5 @@
-<?php include ('header.php'); ?>      
-<!-- ####################################################header part ########################################################-->     
+<?php include ('header.php'); ?>
+<!-- ####################################################header part ########################################################-->
 <a class="scroll-point pt-top" name="thepride"></a>
 
 <div id="header">
@@ -15,7 +15,7 @@
          <?php include ('commons.php'); ?>
     </div>
     <div class="shadow"></div>
-</div> 
+</div>
 
 <div class="wrap">
      <img src="img/contactpage.jpg" style="width: 1008px;height:250px;margin-top: 94px;">
@@ -37,9 +37,9 @@
     </br>
         <article>
             <h1 style="color:#C52128; font-size:16px"><b>Prasanna Patil</b></h1><span style="color:#000000;font-size:14px;"><b>Director of U.S. Ops</b></span>
-            <p>Prasanna recipient of Graduate Citation holds a Masters degree from CUNY and is also PMP certified. Prasanna brings over a decade of management, business transformation and information technology consulting experience in delegating and deploying large global enterprise applications. In addition to overseeing the company’s US operations on a daily basis, Prasanna is passionately involved in client facing, ERP solution architecture and IT project management/implementations activities. Prasanna in paramount positions has consulted for several large scale global fortunes 500 clients.As partner and founding member he will head the clientele management and all the implementations of Maisa’s information technology service offerings, an area in which he holds a track record of excellence.</p>
+            <p>Prasanna recipient of Graduate Citation holds a Masters degree from CUNY and is also PMP certified. Prasanna brings over a decade of management, business transformation and information technology consulting experience in delegating and deploying large global enterprise applications. In addition to overseeing the company’s US operations on a daily basis, Prasanna is passionately involved in client facing, ERP solution architecture and IT project management/implementations activities. Prasanna in paramount positions has consulted for several large scale global fortunes 500 clients.</p>
         </article>
-</div>      
+</div>
  <hr/>
  <!-- ########################################################The pride end ################################################-->
  <!-- ########################################################Carrer start ################################################-->
@@ -47,11 +47,11 @@
 
  <div class="wrap">
     <h1 style="color:#C52128; font-size:22px;"><b>Careers</b></h1><br>
-        <section id="careers1">     
+        <section id="careers1">
             <section><br>
                 <img src="img/careersimg.jpg" width="140" title="jobs"><br><br>
                 <a href="enquire.php"><section class="careers_a">iOS Developer</section></a><br/>
-                <a href="enquire.php"><section class="careers_a">UX Designer</section></a><br/>   
+                <a href="enquire.php"><section class="careers_a">UX Designer</section></a><br/>
                 <a href="enquire.php"><section class="careers_a">Rails Developers</section></a><br/>
                 <a href="enquire.php"><section class="careers_a">PHP Developers</section></a><br/>
                 <a href="enquire.php"><section class="careers_a">IT Marketing</section></a><br/>
@@ -59,7 +59,7 @@
         </section>
         <section id="careers2">
             <table width="100%">
-                <tr>    
+                <tr>
                     <td>
                         <ul class="padleft20px">
                             <li style="list-style-image: url(img/accepted.png);">Do you attack on problems before they do?</li>
@@ -67,18 +67,18 @@
                             <li style="list-style-image: url(img/accepted.png);">Do you have very strong communication skills?</li>
                             <li style="list-style-image: url(img/accepted.png);">Do you have strong ethical beliefs on what you say and do?</li>
                         </ul>
-                    </td>  
-                    <td align="right" class="jobsheading">  
-                        <span>Then <br>you're exactly<br> what <br>we're looking <br>for!</span><br>   
+                    </td>
+                    <td align="right" class="jobsheading">
+                        <span>Then <br>you're exactly<br> what <br>we're looking <br>for!</span><br>
                     </td>
                 </tr>
             </table>
             <br><br>
             <span style="font-size:18px;">Please drop an email with your Resume to <a href="mailto:hr@maisasolutions.com">hr@maisasolutions.com</a></span>
         </section>
-</div>    
+</div>
 <hr>
- 
+
  <!-- ########################################################contact us start ################################################-->
 <a class="scroll-point pt-top" name="contact"></a>
 <div class="wrap">
@@ -92,9 +92,9 @@
             <li><h1>T.S., India 500062</h1></li>
             <li><h1>+91-040-401-77227</h1></li>
         </ul>
-        <br>   
+        <br>
     </div>
-    <div class="contact2">    
+    <div class="contact2">
         <ul class="text-block">
            <li><h1><strong>United States Office</strong></h1></li>
             <li><h1>540 Mansion Park Drive</h1></li>
@@ -102,21 +102,21 @@
             <li><h1>Santa Clara, CA</h1></li>
             <li><h1>USA 95054</h1></li>
             <li><h1>+1-707-709-8961</h1></li>
-        </ul> 
-        <br>            
-    </div> 
+        </ul>
+        <br>
+    </div>
     <div class="contact3">
         <ul class="email_cont">
             <li><img src="img/emailus.png" width="40"><p><a href="mailto:contact@maisasolutions.com">contact@maisasolutions.com</a></p></li><br><br>
             <li><img src="img/skype.png" width="40"><p style="margin-right: 105px;">#cbenjaram</p></li>
-        </ul> 
-        <br>     
+        </ul>
+        <br>
     </div>
-    
+
 </div>
 <hr>
 
  <!-- ########################################################footerpart ################################################-->
-<div class="f1">    
+<div class="f1">
 <?php include ('footer.php'); ?>
 </div>

@@ -524,3 +524,14 @@ margin-right: 130px;
       position: relative;
         
     }
+article {
+    height: 150px
+}
+
+.m_img{
+    float: right;
+}
+.m_desp{
+    float:left;
+    width:850px;
+}

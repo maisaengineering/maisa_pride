@@ -4,30 +4,31 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 <url>
   <loc>http://www.maisasolutions.com/</loc>
-  <changefreq>always</changefreq>
+  <changefreq>daily</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>http://www.maisasolutions.com/about_us.php</loc>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
+  <changefreq>daily</changefreq>
+  <priority>1.00</priority>
 </url>
 <url>
   <loc>http://www.maisasolutions.com/index.php</loc>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
+  <changefreq>daily</changefreq>
+  <priority>1.00</priority>
 </url>
 <url>
   <loc>http://www.maisasolutions.com/portfolio.php</loc>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
+  <changefreq>daily</changefreq>
+  <priority>1.00</priority>
 </url>
 <url>
   <loc>http://www.maisasolutions.com/enquire.php</loc>
-  <changefreq>always</changefreq>
-  <priority>0.80</priority>
+  <changefreq>daily</changefreq>
+  <priority>1.00</priority>
 </url>
 </urlset>

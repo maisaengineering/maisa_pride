@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+<head>
+<link href='http://fonts.googleapis.com/css?family=Play&subset=latin,cyrillic-ext' rel='stylesheet' type='text/css'>
+<script src="jquery.min.js"></script>
+<script src="pp.js"></script>
+<link href="pp.css" rel="stylesheet" type="text/css">
+</head>
+<body onLoad="mywelcome()">
+
+<div id="splashpage">
+
+<audio autoplay="true">
+<source src="sounds/sound1.mp3" type="audio/mpeg">
+</audio>
+
+<div class="block_1" > <img src="images/logo_maisa.png">
+    <h2> Maisa Pixel Perfect Test</h2>
+    </button>
+  </div>
+
+</div>
+
+<div id="mainpage">
+<audio id="second_audio">
+  <source src="sounds/sound2.mp3" type="audio/mpeg">
+</audio>
+<div id="firstimg"></div>
+
+
+<div id="box_btn_1"> 
+<div id="compare_text"></div>
+<img src="images/step_1.png" width="50" height="50" alt="step 1"> <br>
+  <button class="btn btn-2 btn-2a" id="btn_1">upload mockup</button>
+</div>
+<div id="box_btn_2">
+<div id="compare_text_2"></div>
+ <img src="images/step_2.png" width="50" height="50" alt="step 2"> <br>
+  <button class="btn btn-2 btn-2a" id="btn_2">upload your Screen</button>
+</div>
+<div id="wrapper">
+  <div class="block_1"> <img src="images/logo_maisa.png">
+    <h2> Maisa Pixel Perfect Test</h2>
+    </button>
+  </div>
+  <div class="block_2">
+    <input  type="file" id="firstFile" onchange="previewFile('firstFile', 'mockup img')">
+    <div class="mockup"> <img src="" width="" height="" alt=""> </div>
+    <input  type="file" id="secondFile" onchange="previewFile('secondFile', 'screenshot img'); compares()">
+    <audio id="final_audio">
+      <source src="sounds/sound3.mp3" type="audio/mpeg">
+      </audio>
+    <div class="screenshot"> <img src="" width="" height=""> </div>
+  </div>
+</div>
+</div>
+</body>
+</html>

@@ -14,7 +14,6 @@
     <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js?ver=3.5.1'></script>
     <script src="js/smooth.pack.js" type="text/javascript"></script>
     <script src="js/modernizr.js"></script>
-    <script src="js/likebuttons.js"></script>
     <script type="text/javascript" src="js/jquery.fancybox.js"></script>
     <script type="text/javascript" src="js/jquery.fancybox-media.js"></script>
     <script type="text/javascript" src="js/scroll_icons.js"></script>

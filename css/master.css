@@ -139,6 +139,8 @@ hr {
   width: 1008px;
   margin: 0 auto;
   position: relative;
+  height: auto;
+  overflow: hidden;
 }
 .grid {
   background: url(images/grid.png) #eeeeee 50% 0%;

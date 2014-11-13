@@ -34,6 +34,32 @@
     </nav>
   <hr>
   <div class="portfolio_img">
+ <a class="fancybox" href="img/portfolios/rockin.png"><img src="img/portfolios/rockin.png" width="260" height="240"></a>
+ <div class="desc_portfolio"><img src="img/portfolios/rockin_logo.png" width="140"></div>
+</div>
+<div class="portfolio_img">
+ <a class="fancybox" href="img/portfolios/american.png"><img src="img/portfolios/american.png" width="260" height="240"></a>
+ <div class="desc_portfolio">American Wants To Work</div>
+</div>
+<div class="portfolio_img">
+ <a class="fancybox" href="img/portfolios/press.png"><img src="img/portfolios/press.png" width="260" height="240"></a>
+ <div class="desc_portfolio">The Alternative Press</div>
+</div>
+<hr>
+<div class="portfolio_img">
+ <a class="fancybox" href="img/portfolios/chipotlestore.png"><img src="img/portfolios/chipotlestore.png" width="260" height="240"></a>
+ <div class="desc_portfolio"><img src="img/portfolios/chipotle-logo.png" width="80"></div>
+</div>
+<div class="portfolio_img">
+ <a class="fancybox" href="img/portfolios/prime.png"><img src="img/portfolios/prime.png" width="260" height="240"></a>
+ <div class="desc_portfolio">Prime Time Solutions</div>
+</div>
+<div class="portfolio_img">
+ <a class="fancybox" href="img/portfolios/desertbook_web.png"><img src="img/portfolios/desertbook_web.png" width="260" height="240"></a>
+ <div class="desc_portfolio"><img src="img/portfolios/9.png" width="140"></div>
+</div>
+<hr>
+  <div class="portfolio_img">
  <a class="fancybox" href="img/portfolios/kidslink_web.png"><img src="img/portfolios/kidslink_web.png" width="260" height="240"></a>
  <div class="desc_portfolio"><img src="img/portfolios/1.png" width="140"></div>
 </div>
@@ -86,10 +112,6 @@
 </div>
 <hr>
 <div class="portfolio_img">
- <a class="fancybox" href="img/portfolios/desertbook_web.png"><img src="img/portfolios/desertbook_web.png" width="260" height="240"></a>
- <div class="desc_portfolio"><img src="img/portfolios/9.png" width="140"></div>
-</div>
-<div class="portfolio_img">
  <a class="fancybox" href="img/portfolios/addament_web.png"><img src="img/portfolios/addament_web.png" width="260" height="240"></a>
  <div class="desc_portfolio"><img src="img/portfolios/10.png" width="140"></div>
 </div>
@@ -98,30 +120,7 @@
  <div class="desc_portfolio"><img src="img/portfolios/11.png" width="140"></div>
 </div>
 <hr>
-
-<div class="portfolio_img">
- <a class="fancybox" href="img/portfolios/rockin.png"><img src="img/portfolios/rockin.png" width="260" height="240"></a>
- <div class="desc_portfolio"><img src="img/portfolios/rockin_logo.png" width="140"></div>
-</div>
-<div class="portfolio_img">
- <a class="fancybox" href="img/portfolios/american.png"><img src="img/portfolios/american.png" width="260" height="240"></a>
- <div class="desc_portfolio">American Wants To Work</div>
-</div>
-<div class="portfolio_img">
- <a class="fancybox" href="img/portfolios/press.png"><img src="img/portfolios/press.png" width="260" height="240"></a>
- <div class="desc_portfolio">The Alternative Press</div>
-</div>
-<hr>
-<div class="portfolio_img">
- <a class="fancybox" href="img/portfolios/chipotlestore.png"><img src="img/portfolios/chipotlestore.png" width="260" height="240"></a>
- <div class="desc_portfolio"><img src="img/portfolios/chipotle-logo.png" width="80"></div>
-</div>
-<div class="portfolio_img">
- <a class="fancybox" href="img/portfolios/prime.png"><img src="img/portfolios/prime.png" width="260" height="240"></a>
- <div class="desc_portfolio">Prime Time Solutions</div>
-</div>
-</div>       
-<hr>
+      
  <!-- #######################################################Mobile Apps ############################################################################-->
  <a class="scroll-point" name="mobile"></a>
  <div class="wrap">

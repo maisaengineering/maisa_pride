@@ -157,7 +157,8 @@
  <div class="desc_portfolio_mob">Photosharing</div>
 </div>
 </div>
-<hr><br>  
+<hr><br>
+</div>  
  <!-- ####################################################################footerpart #######################################-->
      
 <div class="f1">    

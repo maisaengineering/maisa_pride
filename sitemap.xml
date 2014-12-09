@@ -6,37 +6,34 @@
     <priority>1</priority>
     <changefreq>monthly</changefreq>
   </url>
-  <image:image>
-    <image:loc>http://www.maisasolutions.com/css/images/logo.jpg</image:loc>
-  </image:image>
   <url>
     <loc>http://www.maisasolutions.com/about_us.php</loc>
     <lastmod>2014-12-09T08:58:04Z</lastmod>
     <priority>1</priority>
-    <changefreq>daily</changefreq>
+    <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>http://www.maisasolutions.com/enquire.php</loc>
     <lastmod>2014-12-09T08:58:20Z</lastmod>
     <priority>1</priority>
-    <changefreq>daily</changefreq>
+    <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>http://www.maisasolutions.com/portfolio.php</loc>
     <lastmod>2014-12-09T08:58:37Z</lastmod>
     <priority>1</priority>
-    <changefreq>daily</changefreq>
+    <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>http://www.maisasolutions.com/about_us.php#contact</loc>
     <lastmod>2014-12-09T08:58:37Z</lastmod>
     <priority>1</priority>
-    <changefreq>daily</changefreq>
+    <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>http://www.blog.maisasolutions.com/</loc>
     <lastmod>2014-12-09T08:58:37Z</lastmod>
     <priority>0.1</priority>
-    <changefreq>daily</changefreq>
+    <changefreq>weekly</changefreq>
   </url>
 </urlset>

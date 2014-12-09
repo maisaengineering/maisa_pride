@@ -2,7 +2,7 @@
 <div class="wrap">
 <div id="siteloader"></div>
 <script>
-$("#siteloader").html('<object data="http://maisaengineering.github.io/" />');
+$("#siteloader").html('<object data="http://blog.maisasolutions.com/" />');
 </script>
 
 </div>

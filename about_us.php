@@ -9,7 +9,7 @@
             <a href="index.php">Home</a>
             <a href="#thepride">The Pride</a>
             <a href="#career">Careers</a>
-            <a href="http://maisaengineering.github.io/" target="_blank">Blog</a>
+            <a href="http://blog.maisasolutions.com/" target="_blank">Blog</a>
             <a href="#contact">Contact Us</a>
         </div>
          <?php include ('commons.php'); ?>

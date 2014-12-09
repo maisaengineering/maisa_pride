@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name = "format-detection" content = "telephone=no">
+    <meta name="msvalidate.01" content="F85A57D9955372C1B336AE5022CFA3A2" />
     <title>Rails|Cloud|HTML5|CSS3|MongoDB|Offshore IT| Several other offshore services...</title>
     <link rel="stylesheet" type="text/css" href="css/master.css">
     <link rel="stylesheet" type="text/css" href="css/styles.css">
@@ -27,7 +28,7 @@
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();    
+    })();
     </script>
 
       <!-- Start of Zopim Live Chat Script -->
@@ -42,7 +43,7 @@
       <script type="text/javascript">
              $("#slideshowbg > div:gt(0)").hide();
 
-setInterval(function() { 
+setInterval(function() {
   $('#slideshowbg > div:first')
     .fadeOut(2000)
     .next()
@@ -72,7 +73,7 @@ setInterval(function() {
           <a href="contactus.php" title="Contact Us"></a>
           <div class="box"> <a href="about_us.php#contact" target="blank">+1-707-709-8961 (USA)<br/>
             +91-040-401-77227 (INDIA)</a> </div>
-          </div>  
+          </div>
         </li>
       </ul>
-</div>             
+</div>

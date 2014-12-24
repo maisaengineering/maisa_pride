@@ -1,4 +1,52 @@
-<?php include ('header.php'); ?>
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="SHORTCUT ICON" href="favicon.ico"/>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name = "format-detection" content = "telephone=no">
+    <meta name="description" content="We offer various IT Offshore Services and Solutions Ruby on Rails india at Low Cost and High Standards. Our Offshore Services include Hire-A-Developer." />
+    <meta name="keywords" content="Ruby on Rails Developers,Ruby on Rails india, Rails in india, Ruby in india,Ruby on rails in hyderabad, Ruby on rails companies in india, Rails companies, Ruby companies, Ruby on Rails in hyderabad, Ruby on Rails development india,Rails development, Ruby development, Ruby on Rails web development, Rails web services, Ruby on Rails Web Application,Ruby on Rails Web Development, Rails Developers, Ruby on Rails Development team" />
+    <meta name="robots" content="noindex, nofollow">
+    <meta name="msvalidate.01" content="F85A57D9955372C1B336AE5022CFA3A2" />
+    <title>Rails|Cloud|HTML5|CSS3|MongoDB|Offshore IT| Several other offshore services...</title>
+    <link rel="stylesheet" type="text/css" href="css/master.css">
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <link rel="stylesheet" type="text/css" href="css/jquery.fancybox.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="css/smallslider.css">
+    <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js?ver=3.5.1'></script>
+    <script src="js/smooth.pack.js" type="text/javascript"></script>
+    <script src="js/modernizr.js"></script>
+    <script type="text/javascript" src="js/jquery.fancybox.js"></script>
+    <script type="text/javascript" src="js/jquery.fancybox-media.js"></script>
+    <script type="text/javascript" src="js/scroll_icons.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/scroll_icon.css" />
+</head>
+<body>
+  <!--scrolling icons-->    
+    <div class="scorlling_left">
+      <ul id="contact-us-floating">
+        <li class="facebook"> <a href="http://www.facebook.com/MaisaSolutions" title="Maisa Solutions at Facebook" target="blank"></a>
+          <div class="right-side"></div>
+        </li>
+        <li class="twitter"> <a href="https://twitter.com/maisasolutions" title="Maisa Solutions at Twitter" target="blank"></a>
+          <div class="right-side"></div>
+        </li>
+        <li class="email">
+          <div class="right-side"> <a href="ContactUs" title="Contact Us" target="blank"></a>
+          <div class="box"> <a href="about_us.php#contact">contact@maisasolutions.com</a> </div>
+          </div>
+        </li>
+        <li class="phone">
+          <div class="right-side">
+          <a href="contactus.php" title="Contact Us"></a>
+          <div class="box"> <a href="about_us.php#contact" target="blank">+1-707-709-8961 (USA)<br/>
+            +91-040-401-77227 (INDIA)</a> </div>
+          </div>
+        </li>
+      </ul>
+</div>
 <!-- ####################################################header part ########################################################-->
 <a class="scroll-point pt-top" name="top"></a>
 
@@ -47,6 +95,11 @@
 </div>
 </div>
 <div class="shadow"></div>
+<!-- <div style="width:600px;margin:0 auto;">
+   <a class="twitter-timeline" href="https://twitter.com/MaisaSolutions" data-widget-id="535733182662840322" data-chrome="nofooter no-border"
+  data-tweet-limit="1">Tweets by @MaisaSolutions</a>
+
+</div> -->
   <div class="wrap">
     <div class="v_maisa" style="height:125px;background:#C52128;">
     <br>
@@ -86,6 +139,7 @@
       </div>
     </div>
   </div>
+  
   </div>
 </div>
 </div>
@@ -155,63 +209,15 @@
         <div id="agileimage"><img src="img/agileimage.jpg" width="400" alt="AGILE METHODOLOGY" style="border-radius:10px;"></div>
       </td>
     </table>
+
 </section>
-    </div>
 <hr>
+    </div>
+    
+
 <!-- ###############################################  Process End/ ##################################################################-->
-<script type="text/javascript" src="js/smallslider.js"></script>
-<script type="text/javascript" src="js/jqfade.js"></script>
-<script type="text/javascript">
-    function mycarousel_initCallback(carousel)
-    {
-      // Disable autoscrolling if the user clicks the prev or next button.
-      carousel.buttonNext.bind('click', function() {
-        carousel.startAuto(0);
-      });
 
-      carousel.buttonPrev.bind('click', function() {
-        carousel.startAuto(0);
-      });
 
-      // Pause autoscrolling if the user moves with the cursor over the clip.
-      carousel.clip.hover(function() {
-        carousel.stopAuto();
-      }, function() {
-        carousel.startAuto();
-      });
-    };
-
-    $(document).ready(function() {
-      $('#mycarousel').jcarousel({
-        auto: 2,
-        wrap: 'last',
-        //easing: 'swing',
-        initCallback: mycarousel_initCallback
-      });
-
-        $('#news').innerfade({
-          animationtype: 'fade',
-          speed: 1000,
-          timeout: 5000,
-          type: 'random'
-        });
-    });
-
-    var faderIndex = 0,
-    faders = $('.fadey');
-
-    function nextFade() {
-      $(faders[faderIndex]).fadeOut(10000, function() {
-        faderIndex++;
-        if (faderIndex >= faders.length)
-        faderIndex = 0;
-
-        $(faders[faderIndex]).fadeIn(10000, nextFade);
-      });
-    }
-    nextFade();
-    </script>
-<!-- ####################################################################footerpart #######################################-->
 <div class="f1">
 <?php include ('footer.php'); ?>
 </div>

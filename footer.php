@@ -1,3 +1,57 @@
+<script type="text/javascript" src="js/smallslider.js"></script>
+<script type="text/javascript" src="js/jqfade.js"></script>
+<script type="text/javascript">
+    function mycarousel_initCallback(carousel)
+    {
+      // Disable autoscrolling if the user clicks the prev or next button.
+      carousel.buttonNext.bind('click', function() {
+        carousel.startAuto(0);
+      });
+
+      carousel.buttonPrev.bind('click', function() {
+        carousel.startAuto(0);
+      });
+
+      // Pause autoscrolling if the user moves with the cursor over the clip.
+      carousel.clip.hover(function() {
+        carousel.stopAuto();
+      }, function() {
+        carousel.startAuto();
+      });
+    };
+
+    $(document).ready(function() {
+      $('#mycarousel').jcarousel({
+        auto: 2,
+        wrap: 'last',
+        //easing: 'swing',
+        initCallback: mycarousel_initCallback
+      });
+
+        $('#news').innerfade({
+          animationtype: 'fade',
+          speed: 1000,
+          timeout: 5000,
+          type: 'random'
+        });
+    });
+
+    var faderIndex = 0,
+    faders = $('.fadey');
+
+    function nextFade() {
+      $(faders[faderIndex]).fadeOut(10000, function() {
+        faderIndex++;
+        if (faderIndex >= faders.length)
+        faderIndex = 0;
+
+        $(faders[faderIndex]).fadeIn(10000, nextFade);
+      });
+    }
+    nextFade();
+    </script>
+<!-- ####################################################################footerpart #######################################-->
+
 <div id="footer">
     <section id="footer-area">
     <table style="text-align: center; width: 100%;">

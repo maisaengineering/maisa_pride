@@ -1,3 +1,37 @@
+
+ <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-25285304-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+    </script>
+
+      <!-- Start of Zopim Live Chat Script -->
+      <script type="text/javascript">
+    window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=
+    z.s=d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o
+      ){z.set._.push(o)};$.setAttribute('charset','utf-8');$.async=!0;z.set.
+      _=[];$.src=('https:'==d.location.protocol?'https://ssl':'http://cdn')+
+      '.zopim.com/?FnXksRucv8sJ5z3D14sLU8cJkuuPGrPU';$.type='text/java'+s;z.
+      t=+new Date;z._=[];e.parentNode.insertBefore($,e)})(document,'script')
+      </script>
+      <script type="text/javascript">
+             $("#slideshowbg > div:gt(0)").hide();
+
+setInterval(function() {
+  $('#slideshowbg > div:first')
+    .fadeOut(2000)
+    .next()
+    .fadeIn(2000)
+    .end()
+    .appendTo('#slideshowbg');
+},  6000);
+      </script>
 <script type="text/javascript">
 // window.setInterval(function(){
 // 	var msgPlaceholder = document.getElementById("msgPlaceholder");
@@ -5,6 +39,9 @@
 // 		msgPlaceholder.removeChild(msgPlaceholder.firstChild);
 // 		}}, 5000);
 		</script>
+
+
+<!--scrolling icons end-->
 		<section>
 			<div class="headerbg">
 				<table width="100%">

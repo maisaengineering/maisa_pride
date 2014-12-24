@@ -1,4 +1,52 @@
-<?php include ('header.php'); ?>      
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="SHORTCUT ICON" href="favicon.ico"/>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name = "format-detection" content = "telephone=no">
+    <meta name="description" content="Request a quote for web application and mobile application development requirements." />
+    <meta name="keywords" content="enquire form,inquiry form, get a quote,request a quote" />
+    <meta name="robots" content="noindex, nofollow">
+    <meta name="msvalidate.01" content="F85A57D9955372C1B336AE5022CFA3A2" />
+    <title>Rails|Cloud|HTML5|CSS3|MongoDB|Offshore IT| Several other offshore services...</title>
+    <link rel="stylesheet" type="text/css" href="css/master.css">
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <link rel="stylesheet" type="text/css" href="css/jquery.fancybox.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="css/smallslider.css">
+    <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js?ver=3.5.1'></script>
+    <script src="js/smooth.pack.js" type="text/javascript"></script>
+    <script src="js/modernizr.js"></script>
+    <script type="text/javascript" src="js/jquery.fancybox.js"></script>
+    <script type="text/javascript" src="js/jquery.fancybox-media.js"></script>
+    <script type="text/javascript" src="js/scroll_icons.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/scroll_icon.css" />
+</head>
+<body>
+  <!--scrolling icons-->    
+    <div class="scorlling_left">
+      <ul id="contact-us-floating">
+        <li class="facebook"> <a href="http://www.facebook.com/MaisaSolutions" title="Maisa Solutions at Facebook" target="blank"></a>
+          <div class="right-side"></div>
+        </li>
+        <li class="twitter"> <a href="https://twitter.com/maisasolutions" title="Maisa Solutions at Twitter" target="blank"></a>
+          <div class="right-side"></div>
+        </li>
+        <li class="email">
+          <div class="right-side"> <a href="ContactUs" title="Contact Us" target="blank"></a>
+          <div class="box"> <a href="about_us.php#contact">contact@maisasolutions.com</a> </div>
+          </div>
+        </li>
+        <li class="phone">
+          <div class="right-side">
+          <a href="contactus.php" title="Contact Us"></a>
+          <div class="box"> <a href="about_us.php#contact" target="blank">+1-707-709-8961 (USA)<br/>
+            +91-040-401-77227 (INDIA)</a> </div>
+          </div>
+        </li>
+      </ul>
+</div>           
 <!-- ####################################################header part ########################################################-->     
 <a class="scroll-point pt-top" name="top"></a>
 

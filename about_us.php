@@ -7,7 +7,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name = "format-detection" content = "telephone=no">
     <meta name="description" content="Contact us for web application, mobile application development requirements and hire a developer" />
-    <meta name="keywords" content="contact us, contact us Email, contact us Phone" />
+    <meta name="keywords" content="Offshore Mobile Applications Development, Offshore Web Applications Development, Offshore Hadoop Development, Offshore NoSQL Development, Offshore Cassandra Development, Offshore MongoDB Development, Offshore CouchBase Development, Offshore Ruby on Rails Development, Offshore Spree Development, Offshore Ruby Development, Offshore Java/J2EE Development, Offshore Amazon WebServices Development, Offshore Amazon AWS Development, Offshore Cloud Computing Development, Offshore Heroku Development, Offshore Engine Yard Development, Offshore Google App Engine Development, Offshore iOS Native Application Development, Offshore Android Native Application Development, Offshore Mobile Application Development, Offshore PhoneGap/Apache Cardova Development, Offshore HTML5/CSS3/JavaScript/PHP Development, Offshore Node.js Development, Offshore Backbone.js Development, Offshore Angular.js, Offshore IT Development" />
     <meta name="robots" content="noindex, nofollow">
     <meta name="msvalidate.01" content="F85A57D9955372C1B336AE5022CFA3A2" />
     <title>Rails|Cloud|HTML5|CSS3|MongoDB|Offshore IT| Several other offshore services...</title>
@@ -24,7 +24,7 @@
     <link rel="stylesheet" type="text/css" href="css/scroll_icon.css" />
 </head>
 <body>
-  <!--scrolling icons-->    
+  <!--scrolling icons-->
     <div class="scorlling_left">
       <ul id="contact-us-floating">
         <li class="facebook"> <a href="http://www.facebook.com/MaisaSolutions" title="Maisa Solutions at Facebook" target="blank"></a>
@@ -46,7 +46,7 @@
           </div>
         </li>
       </ul>
-</div>           
+</div>
 
 
 <!-- ####################################################header part ########################################################-->
@@ -94,7 +94,7 @@
         <article>
             <div class="m_desp">
             <h1 style="color:#C52128; font-size:16px"><b>Prasanna Patil</b></h1><span style="color:#000000;font-size:14px;"><b>Director of U.S. Ops</b></span>
-            
+
             <p>Prasanna recipient of Graduate Citation holds a Masters degree from CUNY and is also PMP certified. Prasanna brings over a decade of management, business transformation and information technology consulting experience in delegating and deploying large global enterprise applications. In addition to overseeing the company’s US operations on a daily basis, Prasanna is passionately involved in client facing, ERP solution architecture and IT project management/implementations activities. Prasanna in paramount positions has consulted for several large scale global fortunes 500 clients.</p>
             </div>
             <div class="m_img"><img src="img/pp.jpg" width="120" style="border-radius:60px"></div>

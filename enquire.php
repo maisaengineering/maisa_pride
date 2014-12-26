@@ -7,10 +7,10 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name = "format-detection" content = "telephone=no">
     <meta name="description" content="Request a quote for web application and mobile application development requirements." />
-    <meta name="keywords" content="enquire form,inquiry form, get a quote,request a quote" />
+    <meta name="keywords" content="Offshore Mobile Applications Development, Offshore Web Applications Development, Offshore Hadoop Development, Offshore NoSQL Development, Offshore Cassandra Development, Offshore MongoDB Development, Offshore CouchBase Development, Offshore Ruby on Rails Development, Offshore Spree Development, Offshore Ruby Development, Offshore Java/J2EE Development, Offshore Amazon WebServices Development, Offshore Amazon AWS Development, Offshore Cloud Computing Development, Offshore Heroku Development, Offshore Engine Yard Development, Offshore Google App Engine Development, Offshore iOS Native Application Development, Offshore Android Native Application Development, Offshore Mobile Application Development, Offshore PhoneGap/Apache Cardova Development, Offshore HTML5/CSS3/JavaScript/PHP Development, Offshore Node.js Development, Offshore Backbone.js Development, Offshore Angular.js, Offshore IT Development" />
     <meta name="robots" content="noindex, nofollow">
     <meta name="msvalidate.01" content="F85A57D9955372C1B336AE5022CFA3A2" />
-    <title>Rails|Cloud|HTML5|CSS3|MongoDB|Offshore IT| Several other offshore services...</title>
+    <title>Mobile|BigData|Cloud...</title>
     <link rel="stylesheet" type="text/css" href="css/master.css">
     <link rel="stylesheet" type="text/css" href="css/styles.css">
     <link rel="stylesheet" type="text/css" href="css/jquery.fancybox.css" media="screen" />
@@ -24,7 +24,7 @@
     <link rel="stylesheet" type="text/css" href="css/scroll_icon.css" />
 </head>
 <body>
-  <!--scrolling icons-->    
+  <!--scrolling icons-->
     <div class="scorlling_left">
       <ul id="contact-us-floating">
         <li class="facebook"> <a href="http://www.facebook.com/MaisaSolutions" title="Maisa Solutions at Facebook" target="blank"></a>
@@ -46,8 +46,8 @@
           </div>
         </li>
       </ul>
-</div>           
-<!-- ####################################################header part ########################################################-->     
+</div>
+<!-- ####################################################header part ########################################################-->
 <a class="scroll-point pt-top" name="top"></a>
 
 <div id="header">
@@ -72,12 +72,12 @@
 <div class="wrap">
 <section id="main">
     <div class="form_style" >
-        <h1>Enquiry Form</h1> 
+        <h1>Enquiry Form</h1>
         <form name="enquire_form" method="post" id="enquire_form_id" onsubmit="return validateForm();" action="contact-form-maisa.php">
             <div>
                 <label>First Name:</label>
                 <input name="first_name" type=text placeholder="First name*" required>
-                
+
                 <label>Last Name:</label>
                 <input name="last_name" type=text placeholder="Last name*" required>
 
@@ -88,10 +88,10 @@
                 <input name="skype" type=text placeholder="Skype ID if you have one!">
 
 
-                <label>Phone Number:</label>            
+                <label>Phone Number:</label>
                 <input id="phone" name=phone type=number placeholder="Phone Number">
 
-                <label>Company Name:</label>            
+                <label>Company Name:</label>
                 <input name="company_name" type=text placeholder="Company Name*" required>
 
                 <label>Company URL:</label>
@@ -111,16 +111,16 @@
                     <input type=radio name="work_model" id = "hireadeveloper" value = "Hire-A-Developer(s)" checked = "checked" >Hire-A-Developer(s)<br>
                 </fieldset>
                 <label>Tell Us About Your Need(s):</label><br/>
-                <textarea name="description" placeholder="Short Description*" required></textarea> 
-                
+                <textarea name="description" placeholder="Short Description*" required></textarea>
+
                 <button class="button" name="submit" value="Submit" />Submit</button><input type="hidden" id="spam_code" name="spam_code" value="Captcha Code Here"  />
             </div>
         </form>
     </div>
 </section>
-</div>       
+</div>
  <hr/>
  <!-- ####################################################################footerpart #######################################-->
-<div class="f1">    
+<div class="f1">
 <?php include ('footer.php'); ?>
 </div>

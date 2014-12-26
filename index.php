@@ -7,10 +7,10 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name = "format-detection" content = "telephone=no">
     <meta name="description" content="We offer various IT Offshore Services and Solutions Ruby on Rails india at Low Cost and High Standards. Our Offshore Services include Hire-A-Developer." />
-    <meta name="keywords" content="Ruby on Rails Developers,Ruby on Rails india, Rails in india, Ruby in india,Ruby on rails in hyderabad, Ruby on rails companies in india, Rails companies, Ruby companies, Ruby on Rails in hyderabad, Ruby on Rails development india,Rails development, Ruby development, Ruby on Rails web development, Rails web services, Ruby on Rails Web Application,Ruby on Rails Web Development, Rails Developers, Ruby on Rails Development team" />
+    <meta name="keywords" content="Offshore Mobile Applications Development, Offshore Web Applications Development, Offshore Hadoop Development, Offshore NoSQL Development, Offshore Cassandra Development, Offshore MongoDB Development, Offshore CouchBase Development, Offshore Ruby on Rails Development, Offshore Spree Development, Offshore Ruby Development, Offshore Java/J2EE Development, Offshore Amazon WebServices Development, Offshore Amazon AWS Development, Offshore Cloud Computing Development, Offshore Heroku Development, Offshore Engine Yard Development, Offshore Google App Engine Development, Offshore iOS Native Application Development, Offshore Android Native Application Development, Offshore Mobile Application Development, Offshore PhoneGap/Apache Cardova Development, Offshore HTML5/CSS3/JavaScript/PHP Development, Offshore Node.js Development, Offshore Backbone.js Development, Offshore Angular.js, Offshore IT Development" />
     <meta name="robots" content="noindex, nofollow">
     <meta name="msvalidate.01" content="F85A57D9955372C1B336AE5022CFA3A2" />
-    <title>Rails|Cloud|HTML5|CSS3|MongoDB|Offshore IT| Several other offshore services...</title>
+    <title>Maisa Solutions</title>
     <link rel="stylesheet" type="text/css" href="css/master.css">
     <link rel="stylesheet" type="text/css" href="css/styles.css">
     <link rel="stylesheet" type="text/css" href="css/jquery.fancybox.css" media="screen" />
@@ -24,7 +24,7 @@
     <link rel="stylesheet" type="text/css" href="css/scroll_icon.css" />
 </head>
 <body>
-  <!--scrolling icons-->    
+  <!--scrolling icons-->
     <div class="scorlling_left">
       <ul id="contact-us-floating">
         <li class="facebook"> <a href="http://www.facebook.com/MaisaSolutions" title="Maisa Solutions at Facebook" target="blank"></a>
@@ -139,7 +139,7 @@
       </div>
     </div>
   </div>
-  
+
   </div>
 </div>
 </div>
@@ -150,7 +150,9 @@
       <td><p class="justifiedTxt"><a class="aHoverEffect" href="#services">Mobile Application Development (iOS/Andriod)</a> | <a class="aHoverEffect" href="#services">HTML5</a> | <a class="aHoverEffect" href="#services">PHP</a> | <a class="aHoverEffect" href="#services">Ruby on Rails</a> | <a class="aHoverEffect" href="#services">JavaScript Frameworks (Node.js, Backbone.js, etc)</a> | <a class="aHoverEffect" href="#services">NoSQL (Cassandra, Couchbase, MongoDB, etc) </a> | <a class="aHoverEffect" href="#services">Cloud Computing (AWS, Heroku, Engine Yard, etc)</a> | <a class="aHoverEffect" href="#services">Java/J2EE Stack</a> | <a class="aHoverEffect" href="#services">Agile Methodologies</a> | <a class="aHoverEffect" href="#services">Test Driven Development</a> | <a class="aHoverEffect" href="#services">Content Management Systems </a> | <a class="aHoverEffect" href="#services">24/7 Production Support. </a></p></td>
     </tr>
   </table>
-      <p><b>Maisa Solutions</b> holds a high reputation and proven track record for providing solutions to information technology problems of varying complexity. Our highly competitive core group of developers and programmers offer one-of-a-kind offshore services across the globe. We are experts in dealing with technologies in varying levels, including emerging ones.</p>
+  <p>
+      <b>Maisa Solutions</b> is your ideal IT partner offering various Information Technology Services and Products. We are creators, designers, engineers, educators and problem solvers. Our highly skilled & motivated team offers one-of-a-kind offshore services. Let us help you create next big thing...
+  </p>
          <img src="img/wq.png" style="width: 1008px;height:230px;">
 </div>
 
@@ -213,7 +215,7 @@
 </section>
 <hr>
     </div>
-    
+
 
 <!-- ###############################################  Process End/ ##################################################################-->
 

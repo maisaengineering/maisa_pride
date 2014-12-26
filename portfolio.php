@@ -7,7 +7,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name = "format-detection" content = "telephone=no">
     <meta name="description" content="Examples of web application development and mobile application development." />
-    <meta name="keywords" content="Web application development, Mobile application development, Ruby on Rails Developers, Ruby on Rails web development, Rails web services, Ruby on Rails Web Application," />
+    <meta name="keywords" content="Offshore Mobile Applications Development, Offshore Web Applications Development, Offshore Hadoop Development, Offshore NoSQL Development, Offshore Cassandra Development, Offshore MongoDB Development, Offshore CouchBase Development, Offshore Ruby on Rails Development, Offshore Spree Development, Offshore Ruby Development, Offshore Java/J2EE Development, Offshore Amazon WebServices Development, Offshore Amazon AWS Development, Offshore Cloud Computing Development, Offshore Heroku Development, Offshore Engine Yard Development, Offshore Google App Engine Development, Offshore iOS Native Application Development, Offshore Android Native Application Development, Offshore Mobile Application Development, Offshore PhoneGap/Apache Cardova Development, Offshore HTML5/CSS3/JavaScript/PHP Development, Offshore Node.js Development, Offshore Backbone.js Development, Offshore Angular.js, Offshore IT Development" />
     <meta name="robots" content="noindex, nofollow">
     <meta name="msvalidate.01" content="F85A57D9955372C1B336AE5022CFA3A2" />
     <title>Rails|Cloud|HTML5|CSS3|MongoDB|Offshore IT| Several other offshore services...</title>
@@ -24,7 +24,7 @@
     <link rel="stylesheet" type="text/css" href="css/scroll_icon.css" />
 </head>
 <body>
-  <!--scrolling icons-->    
+  <!--scrolling icons-->
     <div class="scorlling_left">
       <ul id="contact-us-floating">
         <li class="facebook"> <a href="http://www.facebook.com/MaisaSolutions" title="Maisa Solutions at Facebook" target="blank"></a>
@@ -46,8 +46,8 @@
           </div>
         </li>
       </ul>
-</div>     
-<!-- ####################################################header part ########################################################-->     
+</div>
+<!-- ####################################################header part ########################################################-->
 
 <a class="scroll-point pt-top" name="top"></a>
 
@@ -65,12 +65,12 @@
          <?php include ('commons.php'); ?>
     </div>
     <div class="shadow"></div>
-</div> 
+</div>
 
 <div class="wrap">
      <img src="img/header_img3234.gif" style="width: 1008px;margin-top: 94px;">
 </div>
- 
+
 <!-- ######################################################## portfolio form start ################################################-->
 <a class="scroll-point" name="web"></a>
 <div class="wrap">
@@ -78,7 +78,7 @@
     <h1 style="color:#C52128; font-size:22px"><b>Work</b></h1><br>
     <nav style="float:right">
         <a href="#web">Web</a> |
-        <a href="#mobile">Mobile</a> 
+        <a href="#mobile">Mobile</a>
     </nav>
   <hr>
   <div class="portfolio_img">
@@ -168,7 +168,7 @@
  <div class="desc_portfolio"><img src="img/portfolios/11.png" width="140"></div>
 </div>
 <hr>
-      
+
  <!-- #######################################################Mobile Apps ############################################################################-->
  <a class="scroll-point" name="mobile"></a>
  <div class="wrap">
@@ -176,9 +176,9 @@
   <h1 style="color:#C52128; font-size:22px"><b>Mobile</b></h1><br>
    <nav style="float:right">
         <a href="#web">Web</a> |
-        <a href="#mobile">Mobile</a> 
+        <a href="#mobile">Mobile</a>
     </nav>
-  <hr>  
+  <hr>
   <div class="portfolio_img">
  <a class="fancybox" href="img/portfolios/kidslink_mob.png"><img src="img/portfolios/kidslink_mob.png" width="150" height="300"></a>
  <div class="desc_portfolio_mob">KidsLink</div>
@@ -206,9 +206,9 @@
 </div>
 </div>
 <hr><br>
-</div>  
+</div>
  <!-- ####################################################################footerpart #######################################-->
-     
-<div class="f1">    
+
+<div class="f1">
 <?php include ('footer.php'); ?>
 </div>

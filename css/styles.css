@@ -137,6 +137,12 @@ width: 250px;
 margin-left: 0px;
 margin-top: 5px;
 }
+.contact1  ul {
+    list-style-type: none;
+}
+.contact2  ul {
+    list-style-type: none;
+}
 .contact3 {
 float: right;
 width: 250px;
@@ -535,36 +541,43 @@ article {
     float:left;
     width:850px;
 }
-blockquote.twitter-tweet {
-  display: inline-block;
-  font-family: "Helvetica Neue", Roboto, "Segoe UI", Calibri, sans-serif;
-  font-size: 12px;
-  font-weight: bold;
-  line-height: 16px;
-  
-  border-radius: 5px;
-  border-style: solid;
-  border-width: 1px;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
-  margin: 10px 5px;
-  padding: 0 16px 16px 16px;
-  max-width: 468px;
+/*New Styles*/
+.h1_text{
+	color:#C52128;
+	font-size:22px;
 }
- 
-blockquote.twitter-tweet p {
-  font-size: 16px;
-  font-weight: normal;
-  line-height: 20px;
+
+.scroll_block{
+	height:125px;
+	background:#C52128;
 }
- 
-blockquote.twitter-tweet a {
-  color: inherit;
-  font-weight: normal;
-  text-decoration: none;
-  outline: 0 none;
+.padding_top{
+	padding-top:20px;
 }
- 
-blockquote.twitter-tweet a:hover,
-blockquote.twitter-tweet a:focus {
-  text-decoration: underline;
+.margin_top{
+	margin-top:30px
 }
+.extramoney img{
+	width:100px;
+	height:70px;
+}
+.hi_5_img{
+	width: 1008px;
+	height:230px;
+}
+.footer_table{
+	text-align: center;
+	 width: 100%;
+}
+.footer_table tr{
+	vertical-align:middle;
+}
+.mob_circle{
+	margin: 14px;
+	margin-left: 25px;
+}
+.web_circle{
+	margin: 20px;
+	margin-left: 16px;
+}
+	

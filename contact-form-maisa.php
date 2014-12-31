@@ -29,7 +29,7 @@ $mail_options = [
 	try {
     $message = new Message($mail_options);
     $message->send();
-    header("Location: thankyou.php");
+    header("Location: index.html");
 } catch (InvalidArgumentException $e) {
 
 }

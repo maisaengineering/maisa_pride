@@ -2,53 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
     <loc>http://www.maisasolutions.com/</loc>
-    <lastmod>2014-12-09T08:57:51Z</lastmod>
+    <lastmod>2015-01-01</lastmod>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://www.maisasolutions.com/about_us.php</loc>
-    <lastmod>2014-12-09T08:58:04Z</lastmod>
+    <loc>http://www.maisasolutions.com/about_us.html</loc>
+    <lastmod>2015-01-01</lastmod>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://www.maisasolutions.com/enquire.html</loc>
+    <lastmod>2015-01-01</lastmod>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://www.maisasolutions.com/portfolio.html</loc>
+    <lastmod>2015-01-01</lastmod>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://www.maisasolutions.com/about_us.html#contact</loc>
+    <lastmod>2015-01-01</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.maisasolutions.com/enquire.php</loc>
-    <lastmod>2014-12-09T08:58:20Z</lastmod>
+    <loc>http://www.maisasolutions.com/index.html#services</loc>
+    <lastmod>2015-01-01</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.maisasolutions.com/portfolio.php</loc>
-    <lastmod>2014-12-09T08:58:37Z</lastmod>
+    <loc>http://www.maisasolutions.com/index.html#process</loc>
+    <lastmod>2015-01-01</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.maisasolutions.com/about_us.php#contact</loc>
-    <lastmod>2014-12-09T08:58:37Z</lastmod>
+    <loc>http://www.maisasolutions.com/about_us.html#thepride</loc>
+    <lastmod>2015-01-01</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.maisasolutions.com/index.php#services</loc>
-    <lastmod>2014-12-09T08:58:37Z</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://www.maisasolutions.com/index.php#process</loc>
-    <lastmod>2014-12-09T08:58:37Z</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://www.maisasolutions.com/about_us.php#thepride</loc>
-    <lastmod>2014-12-09T08:58:37Z</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://www.maisasolutions.com/about_us.php#career</loc>
-    <lastmod>2014-12-09T08:58:37Z</lastmod>
+    <loc>http://www.maisasolutions.com/about_us.html#career</loc>
+    <lastmod>2015-01-01</lastmod>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>http://blog.maisasolutions.com/</loc>
-    <lastmod>2014-12-09T08:58:37Z</lastmod>
+    <lastmod>2015-01-01</lastmod>
     <priority>0.8</priority>
   </url>
 </urlset>

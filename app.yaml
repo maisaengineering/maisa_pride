@@ -1,5 +1,5 @@
 application: maisalabs
-version: 79
+version: 786
 runtime: php
 api_version: 1
 
@@ -28,4 +28,4 @@ handlers:
   script: \1.\2
 
 - url: /
-  script: index.php
+  script: index.html

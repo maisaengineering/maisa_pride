@@ -4,51 +4,61 @@
     <loc>http://www.maisasolutions.com/</loc>
     <lastmod>2015-01-01</lastmod>
     <priority>1</priority>
+    <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>http://www.maisasolutions.com/about_us.html</loc>
     <lastmod>2015-01-01</lastmod>
     <priority>1</priority>
+    <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>http://www.maisasolutions.com/enquire.html</loc>
     <lastmod>2015-01-01</lastmod>
     <priority>1</priority>
+    <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>http://www.maisasolutions.com/portfolio.html</loc>
     <lastmod>2015-01-01</lastmod>
     <priority>1</priority>
+    <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>http://www.maisasolutions.com/about_us.html#contact</loc>
     <lastmod>2015-01-01</lastmod>
-    <priority>0.8</priority>
+    <priority>1</priority>
+    <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>http://www.maisasolutions.com/index.html#services</loc>
     <lastmod>2015-01-01</lastmod>
-    <priority>0.8</priority>
+    <priority>1</priority>
+    <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>http://www.maisasolutions.com/index.html#process</loc>
     <lastmod>2015-01-01</lastmod>
-    <priority>0.8</priority>
+    <priority>1</priority>
+    <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>http://www.maisasolutions.com/about_us.html#thepride</loc>
     <lastmod>2015-01-01</lastmod>
-    <priority>0.8</priority>
+    <priority>1</priority>
+    <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>http://www.maisasolutions.com/about_us.html#career</loc>
     <lastmod>2015-01-01</lastmod>
-    <priority>0.8</priority>
+    <priority>1</priority>
+    <changefreq>weekly</changefreq>
   </url>
 
   <url>
     <loc>http://blog.maisasolutions.com/</loc>
     <lastmod>2015-01-01</lastmod>
-    <priority>0.8</priority>
+    <priority>1</priority>
+    <changefreq>weekly</changefreq>
   </url>
 </urlset>

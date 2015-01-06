@@ -2,63 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
     <loc>http://www.maisasolutions.com/</loc>
-    <lastmod>2015-01-01</lastmod>
+    <lastmod>2014-12-09T08:57:51Z</lastmod>
     <priority>1</priority>
-    <changefreq>weekly</changefreq>
+    <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>http://www.maisasolutions.com/about_us.html</loc>
-    <lastmod>2015-01-01</lastmod>
+    <loc>http://www.maisasolutions.com/aboutus.html</loc>
+    <lastmod>2014-12-09T08:58:04Z</lastmod>
     <priority>1</priority>
-    <changefreq>weekly</changefreq>
+    <changefreq>daily</changefreq>
   </url>
   <url>
     <loc>http://www.maisasolutions.com/enquire.html</loc>
-    <lastmod>2015-01-01</lastmod>
+    <lastmod>2014-12-09T08:58:20Z</lastmod>
     <priority>1</priority>
-    <changefreq>weekly</changefreq>
+    <changefreq>daily</changefreq>
   </url>
   <url>
     <loc>http://www.maisasolutions.com/portfolio.html</loc>
-    <lastmod>2015-01-01</lastmod>
+    <lastmod>2014-12-09T08:58:37Z</lastmod>
     <priority>1</priority>
-    <changefreq>weekly</changefreq>
+    <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>http://www.maisasolutions.com/about_us.html#contact</loc>
-    <lastmod>2015-01-01</lastmod>
+    <loc>http://www.maisasolutions.com/aboutus.html#contact</loc>
+    <lastmod>2014-12-09T08:58:37Z</lastmod>
     <priority>1</priority>
-    <changefreq>weekly</changefreq>
+    <changefreq>daily</changefreq>
   </url>
-  <url>
-    <loc>http://www.maisasolutions.com/index.html#services</loc>
-    <lastmod>2015-01-01</lastmod>
-    <priority>1</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>http://www.maisasolutions.com/index.html#process</loc>
-    <lastmod>2015-01-01</lastmod>
-    <priority>1</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>http://www.maisasolutions.com/about_us.html#thepride</loc>
-    <lastmod>2015-01-01</lastmod>
-    <priority>1</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>http://www.maisasolutions.com/about_us.html#career</loc>
-    <lastmod>2015-01-01</lastmod>
-    <priority>1</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-
   <url>
     <loc>http://blog.maisasolutions.com/</loc>
-    <lastmod>2015-01-01</lastmod>
-    <priority>1</priority>
-    <changefreq>weekly</changefreq>
+    <lastmod>2014-12-09T08:58:37Z</lastmod>
+    <priority>0.9</priority>
+    <changefreq>always</changefreq>
   </url>
 </urlset>

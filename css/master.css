@@ -250,12 +250,16 @@ hr {
 .footer {
   padding: 32px 0 64px;
   background: url("../img/bg_footer.png");
-  width: 100%;
+  width: 100% !important;
 }
 #footer p {
   color:#000000;
   font-size: 12px;
   line-height: 1.5em;
+}
+#footer-area{
+  width: 1008px;
+  margin: 0 auto;
 }
 .f1{
   width: 100%;

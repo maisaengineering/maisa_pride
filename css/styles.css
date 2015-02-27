@@ -1,4 +1,3 @@
-
 img {
     border: 0;
 }
@@ -583,4 +582,8 @@ article {
 .twitterfeed_block{
     width:600px;
     margin:0 auto;
+}
+
+.twitter_timeline_posts li{
+    display: inline-block;
 }

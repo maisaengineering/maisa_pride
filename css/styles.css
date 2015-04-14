@@ -587,3 +587,16 @@ article {
 .twitter_timeline_posts li{
     display: inline-block;
 }
+
+#idSharedVue{
+    margin-top: 25px !important;
+}
+
+.aws_wrap{
+  width: 1008px;
+  margin: 0 auto;
+  position: relative;
+  height: auto;
+  overflow: hidden;
+  padding-top: 53px;
+}

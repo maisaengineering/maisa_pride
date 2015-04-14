@@ -185,7 +185,7 @@ hr {
   height: 75px;
 }
 .menu {
-  padding: 46px 0;
+  padding-top: 46px;
   float: right;
 }
 .menu a {

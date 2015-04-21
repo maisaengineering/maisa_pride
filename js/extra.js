@@ -100,3 +100,7 @@ var K = function () {
 }();
 
 
+// home page logo scroll
+$(function() {
+    $("#scroller").simplyScroll();
+});
